@@ -1,0 +1,5712 @@
+[
+  {
+    "appid": 70,
+    "name": "Half-Life",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/70.zip"
+  },
+  {
+    "appid": 500,
+    "name": "Left 4 Dead",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/500.zip"
+  },
+  {
+    "appid": 550,
+    "name": "Left 4 Dead 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/550.zip"
+  },
+  {
+    "appid": 620,
+    "name": "Portal 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/620.zip"
+  },
+  {
+    "appid": 10500,
+    "name": "Total War: EMPIRE - Definitive Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/10500.zip"
+  },
+  {
+    "appid": 16900,
+    "name": "GROUND BRANCH",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/16900.zip"
+  },
+  {
+    "appid": 21100,
+    "name": "F.E.A.R. 3",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/21100.zip"
+  },
+  {
+    "appid": 21130,
+    "name": "LEGO® Harry Potter: Years 1-4",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/21130.zip"
+  },
+  {
+    "appid": 22600,
+    "name": "Worms Reloaded",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/22600.zip"
+  },
+  {
+    "appid": 32330,
+    "name": "LEGOⓇ Indiana Jones™: The Original Adventures",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/32330.zip"
+  },
+  {
+    "appid": 34030,
+    "name": "Total War: NAPOLEON - Definitive Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/34030.zip"
+  },
+  {
+    "appid": 35130,
+    "name": "Lara Croft and the Guardian of Light",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/35130.zip"
+  },
+  {
+    "appid": 35700,
+    "name": "Trine",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/35700.zip"
+  },
+  {
+    "appid": 35720,
+    "name": "Trine 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/35720.zip"
+  },
+  {
+    "appid": 40100,
+    "name": "Supreme Commander 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/40100.zip"
+  },
+  {
+    "appid": 41070,
+    "name": "Serious Sam 3: BFE",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/41070.zip"
+  },
+  {
+    "appid": 42910,
+    "name": "Magicka",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/42910.zip"
+  },
+  {
+    "appid": 45740,
+    "name": "Dead Rising 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/45740.zip"
+  },
+  {
+    "appid": 45760,
+    "name": "Ultra Street Fighter IV",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/45760.zip"
+  },
+  {
+    "appid": 49520,
+    "name": "Borderlands 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/49520.zip"
+  },
+  {
+    "appid": 55150,
+    "name": "Warhammer 40,000: Space Marine - Anniversary Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/55150.zip"
+  },
+  {
+    "appid": 55230,
+    "name": "Saints Row: The Third",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/55230.zip"
+  },
+  {
+    "appid": 63380,
+    "name": "Sniper Elite V2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/63380.zip"
+  },
+  {
+    "appid": 65800,
+    "name": "Dungeon Defenders",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/65800.zip"
+  },
+  {
+    "appid": 67370,
+    "name": "The Darkness II",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/67370.zip"
+  },
+  {
+    "appid": 70600,
+    "name": "Worms Ultimate Mayhem",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/70600.zip"
+  },
+  {
+    "appid": 94400,
+    "name": "Nidhogg",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/94400.zip"
+  },
+  {
+    "appid": 99300,
+    "name": "Renegade Ops",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/99300.zip"
+  },
+  {
+    "appid": 105420,
+    "name": "Ms. Splosion Man",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/105420.zip"
+  },
+  {
+    "appid": 105600,
+    "name": "Terraria",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/105600.zip"
+  },
+  {
+    "appid": 106000,
+    "name": "The Cursed Crusade",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/106000.zip"
+  },
+  {
+    "appid": 200170,
+    "name": "Worms Revolution",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/200170.zip"
+  },
+  {
+    "appid": 201790,
+    "name": "Orcs Must Die! 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/201790.zip"
+  },
+  {
+    "appid": 204360,
+    "name": "Castle Crashers",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/204360.zip"
+  },
+  {
+    "appid": 204880,
+    "name": "Sins of a Solar Empire: Rebellion",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/204880.zip"
+  },
+  {
+    "appid": 210770,
+    "name": "Sanctum 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/210770.zip"
+  },
+  {
+    "appid": 215690,
+    "name": "Zeno Clash 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/215690.zip"
+  },
+  {
+    "appid": 217200,
+    "name": "Worms Armageddon",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/217200.zip"
+  },
+  {
+    "appid": 218620,
+    "name": "PAYDAY 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/218620.zip"
+  },
+  {
+    "appid": 218820,
+    "name": "Mercenary Kings",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/218820.zip"
+  },
+  {
+    "appid": 224480,
+    "name": "Octodad: Dadliest Catch",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/224480.zip"
+  },
+  {
+    "appid": 227860,
+    "name": "Castle Story",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/227860.zip"
+  },
+  {
+    "appid": 232090,
+    "name": "Killing Floor 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/232090.zip"
+  },
+  {
+    "appid": 232890,
+    "name": "Stronghold Crusader 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/232890.zip"
+  },
+  {
+    "appid": 233980,
+    "name": "Unepic",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/233980.zip"
+  },
+  {
+    "appid": 236690,
+    "name": "Blood Bowl 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/236690.zip"
+  },
+  {
+    "appid": 236850,
+    "name": "Europa Universalis IV",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/236850.zip"
+  },
+  {
+    "appid": 238090,
+    "name": "Sniper Elite 3",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/238090.zip"
+  },
+  {
+    "appid": 238370,
+    "name": "Magicka 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/238370.zip"
+  },
+  {
+    "appid": 238460,
+    "name": "BattleBlock Theater",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/238460.zip"
+  },
+  {
+    "appid": 242550,
+    "name": "Rayman Legends",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/242550.zip"
+  },
+  {
+    "appid": 242860,
+    "name": "Verdun",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/242860.zip"
+  },
+  {
+    "appid": 244450,
+    "name": "Men of War: Assault Squad 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/244450.zip"
+  },
+  {
+    "appid": 244850,
+    "name": "Space Engineers",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/244850.zip"
+  },
+  {
+    "appid": 246920,
+    "name": "Bombernauts",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/246920.zip"
+  },
+  {
+    "appid": 247080,
+    "name": "Crypt of the NecroDancer",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/247080.zip"
+  },
+  {
+    "appid": 248390,
+    "name": "Craft The World",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/248390.zip"
+  },
+  {
+    "appid": 248610,
+    "name": "Door Kickers",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/248610.zip"
+  },
+  {
+    "appid": 250760,
+    "name": "Shovel Knight: Treasure Trove",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/250760.zip"
+  },
+  {
+    "appid": 250900,
+    "name": "The Binding of Isaac: Rebirth",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/250900.zip"
+  },
+  {
+    "appid": 251060,
+    "name": "Wargame: Red Dragon",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/251060.zip"
+  },
+  {
+    "appid": 251570,
+    "name": "7 Days to Die",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/251570.zip"
+  },
+  {
+    "appid": 252110,
+    "name": "Lovers in a Dangerous Spacetime",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/252110.zip"
+  },
+  {
+    "appid": 252610,
+    "name": "Death Road to Canada",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/252610.zip"
+  },
+  {
+    "appid": 252870,
+    "name": "PULSAR: Lost Colony",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/252870.zip"
+  },
+  {
+    "appid": 253230,
+    "name": "A Hat in Time",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/253230.zip"
+  },
+  {
+    "appid": 253250,
+    "name": "Stonehearth",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/253250.zip"
+  },
+  {
+    "appid": 254460,
+    "name": "Obscure",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/254460.zip"
+  },
+  {
+    "appid": 257850,
+    "name": "Hyper Light Drifter",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/257850.zip"
+  },
+  {
+    "appid": 261180,
+    "name": "Lethal League",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/261180.zip"
+  },
+  {
+    "appid": 262060,
+    "name": "Darkest Dungeon®",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/262060.zip"
+  },
+  {
+    "appid": 266840,
+    "name": "Age of Mythology: Extended Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/266840.zip"
+  },
+  {
+    "appid": 268650,
+    "name": "From The Depths",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/268650.zip"
+  },
+  {
+    "appid": 268910,
+    "name": "Cuphead",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/268910.zip"
+  },
+  {
+    "appid": 269170,
+    "name": "SportsBar VR ",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/269170.zip"
+  },
+  {
+    "appid": 269770,
+    "name": "Secrets of Grindea",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/269770.zip"
+  },
+  {
+    "appid": 270150,
+    "name": "RUNNING WITH RIFLES",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/270150.zip"
+  },
+  {
+    "appid": 271240,
+    "name": "Offworld Trading Company",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/271240.zip"
+  },
+  {
+    "appid": 274190,
+    "name": "Broforce",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/274190.zip"
+  },
+  {
+    "appid": 275850,
+    "name": "No Man's Sky",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/275850.zip"
+  },
+  {
+    "appid": 280180,
+    "name": "Hover",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/280180.zip"
+  },
+  {
+    "appid": 280790,
+    "name": "Creativerse",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/280790.zip"
+  },
+  {
+    "appid": 282400,
+    "name": "SuperPower 2 Steam Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/282400.zip"
+  },
+  {
+    "appid": 285160,
+    "name": "LEGO® The Hobbit™",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/285160.zip"
+  },
+  {
+    "appid": 285900,
+    "name": "Gang Beasts",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/285900.zip"
+  },
+  {
+    "appid": 286000,
+    "name": "Tooth and Tail",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/286000.zip"
+  },
+  {
+    "appid": 286160,
+    "name": "Tabletop Simulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/286160.zip"
+  },
+  {
+    "appid": 287290,
+    "name": "Resident Evil Revelations 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/287290.zip"
+  },
+  {
+    "appid": 289950,
+    "name": "Construction-Simulator 2015",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/289950.zip"
+  },
+  {
+    "appid": 290080,
+    "name": "Life is Feudal: Your Own",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/290080.zip"
+  },
+  {
+    "appid": 290530,
+    "name": "Clandestine",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/290530.zip"
+  },
+  {
+    "appid": 290690,
+    "name": "Tonight We Riot",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/290690.zip"
+  },
+  {
+    "appid": 293780,
+    "name": "Crawl",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/293780.zip"
+  },
+  {
+    "appid": 296470,
+    "name": "Mount Your Friends",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/296470.zip"
+  },
+  {
+    "appid": 299970,
+    "name": "Project Motor Racing",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/299970.zip"
+  },
+  {
+    "appid": 301970,
+    "name": "Screencheat",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/301970.zip"
+  },
+  {
+    "appid": 302670,
+    "name": "Call to Arms",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/302670.zip"
+  },
+  {
+    "appid": 307110,
+    "name": "We Need To Go Deeper",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/307110.zip"
+  },
+  {
+    "appid": 307780,
+    "name": "Mortal Kombat X",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/307780.zip"
+  },
+  {
+    "appid": 311260,
+    "name": "The Guild 3",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/311260.zip"
+  },
+  {
+    "appid": 311690,
+    "name": "Enter the Gungeon",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/311690.zip"
+  },
+  {
+    "appid": 312520,
+    "name": "Rain World",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/312520.zip"
+  },
+  {
+    "appid": 312530,
+    "name": "Duck Game",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/312530.zip"
+  },
+  {
+    "appid": 312670,
+    "name": "Strange Brigade",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/312670.zip"
+  },
+  {
+    "appid": 314410,
+    "name": "Rampage Knights",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/314410.zip"
+  },
+  {
+    "appid": 322110,
+    "name": "20XX",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/322110.zip"
+  },
+  {
+    "appid": 323220,
+    "name": "Vagante",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/323220.zip"
+  },
+  {
+    "appid": 323470,
+    "name": "DRAGON BALL XENOVERSE",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/323470.zip"
+  },
+  {
+    "appid": 323850,
+    "name": "Move or Die",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/323850.zip"
+  },
+  {
+    "appid": 324080,
+    "name": "Rising World",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/324080.zip"
+  },
+  {
+    "appid": 325610,
+    "name": "Total War: ATTILA",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/325610.zip"
+  },
+  {
+    "appid": 327030,
+    "name": "Worms W.M.D",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/327030.zip"
+  },
+  {
+    "appid": 327090,
+    "name": "Out of Reach",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/327090.zip"
+  },
+  {
+    "appid": 330020,
+    "name": "Children of Morta",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/330020.zip"
+  },
+  {
+    "appid": 332310,
+    "name": "LEGO® Worlds",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/332310.zip"
+  },
+  {
+    "appid": 334210,
+    "name": "Fortified",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/334210.zip"
+  },
+  {
+    "appid": 334540,
+    "name": "Vox Machinae",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/334540.zip"
+  },
+  {
+    "appid": 342180,
+    "name": "Arizona Sunshine",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/342180.zip"
+  },
+  {
+    "appid": 348470,
+    "name": "SAMURAI WARRIORS 4-II",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/348470.zip"
+  },
+  {
+    "appid": 348550,
+    "name": "GUILTY GEAR XX ACCENT CORE PLUS R",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/348550.zip"
+  },
+  {
+    "appid": 349040,
+    "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/349040.zip"
+  },
+  {
+    "appid": 351100,
+    "name": "Niffelheim",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/351100.zip"
+  },
+  {
+    "appid": 352400,
+    "name": "LEGO® Jurassic World",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/352400.zip"
+  },
+  {
+    "appid": 355790,
+    "name": "Styx: Shards of Darkness",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/355790.zip"
+  },
+  {
+    "appid": 357190,
+    "name": "Ultimate Marvel vs. Capcom 3",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/357190.zip"
+  },
+  {
+    "appid": 357310,
+    "name": "Oriental Empires",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/357310.zip"
+  },
+  {
+    "appid": 357330,
+    "name": "Space Beast Terror Fright",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/357330.zip"
+  },
+  {
+    "appid": 361300,
+    "name": "Mother Russia Bleeds",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/361300.zip"
+  },
+  {
+    "appid": 361420,
+    "name": "ASTRONEER",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/361420.zip"
+  },
+  {
+    "appid": 362620,
+    "name": "Software Inc.",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/362620.zip"
+  },
+  {
+    "appid": 363860,
+    "name": "MythForce",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/363860.zip"
+  },
+  {
+    "appid": 364360,
+    "name": "Total War: WARHAMMER",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/364360.zip"
+  },
+  {
+    "appid": 366090,
+    "name": "Colony Survival",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/366090.zip"
+  },
+  {
+    "appid": 371970,
+    "name": "Barony",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/371970.zip"
+  },
+  {
+    "appid": 373420,
+    "name": "Divinity: Original Sin Enhanced Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/373420.zip"
+  },
+  {
+    "appid": 373930,
+    "name": "Sudden Strike 4",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/373930.zip"
+  },
+  {
+    "appid": 374040,
+    "name": "Portal Knights",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/374040.zip"
+  },
+  {
+    "appid": 374320,
+    "name": "DARK SOULS™ III",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/374320.zip"
+  },
+  {
+    "appid": 375480,
+    "name": "Chronicon",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/375480.zip"
+  },
+  {
+    "appid": 375750,
+    "name": "Invisigun Reloaded",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/375750.zip"
+  },
+  {
+    "appid": 377300,
+    "name": "Thunder Tier One",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/377300.zip"
+  },
+  {
+    "appid": 378360,
+    "name": "Ymir",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/378360.zip"
+  },
+  {
+    "appid": 379210,
+    "name": "Wayward",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/379210.zip"
+  },
+  {
+    "appid": 382310,
+    "name": "Eco",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/382310.zip"
+  },
+  {
+    "appid": 382560,
+    "name": "Hot Lava",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/382560.zip"
+  },
+  {
+    "appid": 383120,
+    "name": "Empyrion - Galactic Survival",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/383120.zip"
+  },
+  {
+    "appid": 383980,
+    "name": "Rivals of Aether",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/383980.zip"
+  },
+  {
+    "appid": 385380,
+    "name": "Planet Centauri",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/385380.zip"
+  },
+  {
+    "appid": 386940,
+    "name": "Ultimate Chicken Horse",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/386940.zip"
+  },
+  {
+    "appid": 387990,
+    "name": "Scrap Mechanic",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/387990.zip"
+  },
+  {
+    "appid": 389670,
+    "name": "Pacer",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/389670.zip"
+  },
+  {
+    "appid": 389730,
+    "name": "TEKKEN 7",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/389730.zip"
+  },
+  {
+    "appid": 391730,
+    "name": "Crashlands",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/391730.zip"
+  },
+  {
+    "appid": 392110,
+    "name": "ENDLESS™ Space 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/392110.zip"
+  },
+  {
+    "appid": 393380,
+    "name": "Squad",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/393380.zip"
+  },
+  {
+    "appid": 393430,
+    "name": "Ice Lakes",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/393430.zip"
+  },
+  {
+    "appid": 394360,
+    "name": "Hearts of Iron IV",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/394360.zip"
+  },
+  {
+    "appid": 394690,
+    "name": "Tower Unite",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/394690.zip"
+  },
+  {
+    "appid": 396900,
+    "name": "GRIP: Combat Racing",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/396900.zip"
+  },
+  {
+    "appid": 397460,
+    "name": "The Jackbox Party Pack 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/397460.zip"
+  },
+  {
+    "appid": 397540,
+    "name": "Borderlands 3",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/397540.zip"
+  },
+  {
+    "appid": 400080,
+    "name": "Out of Space",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/400080.zip"
+  },
+  {
+    "appid": 400750,
+    "name": "Call to Arms - Gates of Hell: Ostfront",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/400750.zip"
+  },
+  {
+    "appid": 405290,
+    "name": "Charlie Murder",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/405290.zip"
+  },
+  {
+    "appid": 406290,
+    "name": "Twilight Struggle",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/406290.zip"
+  },
+  {
+    "appid": 410900,
+    "name": "Forts",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/410900.zip"
+  },
+  {
+    "appid": 413150,
+    "name": "Stardew Valley",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/413150.zip"
+  },
+  {
+    "appid": 414120,
+    "name": "Modbox",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/414120.zip"
+  },
+  {
+    "appid": 414740,
+    "name": "RAID: World War II",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/414740.zip"
+  },
+  {
+    "appid": 415590,
+    "name": "Earthfall",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/415590.zip"
+  },
+  {
+    "appid": 417910,
+    "name": "Street Warriors Online",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/417910.zip"
+  },
+  {
+    "appid": 418340,
+    "name": "RWBY: Grimm Eclipse",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/418340.zip"
+  },
+  {
+    "appid": 418530,
+    "name": "Spelunky 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/418530.zip"
+  },
+  {
+    "appid": 419700,
+    "name": "AT SUNDOWN: Shots in the Dark",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/419700.zip"
+  },
+  {
+    "appid": 420290,
+    "name": "Blackwake",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/420290.zip"
+  },
+  {
+    "appid": 425220,
+    "name": "ONE PIECE BURNING BLOOD",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/425220.zip"
+  },
+  {
+    "appid": 427410,
+    "name": "Abiotic Factor",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/427410.zip"
+  },
+  {
+    "appid": 427520,
+    "name": "Factorio",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/427520.zip"
+  },
+  {
+    "appid": 427730,
+    "name": "Who's Your Daddy?!",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/427730.zip"
+  },
+  {
+    "appid": 431240,
+    "name": "Golf With Your Friends",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/431240.zip"
+  },
+  {
+    "appid": 431940,
+    "name": "Wildfire",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/431940.zip"
+  },
+  {
+    "appid": 432980,
+    "name": "INVERSUS Deluxe",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/432980.zip"
+  },
+  {
+    "appid": 434170,
+    "name": "The Jackbox Party Pack 3",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/434170.zip"
+  },
+  {
+    "appid": 434570,
+    "name": "Blood and Bacon",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/434570.zip"
+  },
+  {
+    "appid": 434650,
+    "name": "Lost Castle",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/434650.zip"
+  },
+  {
+    "appid": 436260,
+    "name": "Ultimate Arena FPS",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/436260.zip"
+  },
+  {
+    "appid": 436320,
+    "name": "Raw Data",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/436320.zip"
+  },
+  {
+    "appid": 437920,
+    "name": "Tricky Towers",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/437920.zip"
+  },
+  {
+    "appid": 438490,
+    "name": "GOD EATER 2 Rage Burst",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/438490.zip"
+  },
+  {
+    "appid": 438640,
+    "name": "LEGO® STAR WARS™: The Force Awakens",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/438640.zip"
+  },
+  {
+    "appid": 440310,
+    "name": "Project Arrhythmia",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/440310.zip"
+  },
+  {
+    "appid": 440900,
+    "name": "Conan Exiles",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/440900.zip"
+  },
+  {
+    "appid": 445220,
+    "name": "Avorion",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/445220.zip"
+  },
+  {
+    "appid": 445980,
+    "name": "Wizard of Legend",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/445980.zip"
+  },
+  {
+    "appid": 447020,
+    "name": "Farming Simulator 17",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/447020.zip"
+  },
+  {
+    "appid": 447290,
+    "name": "Redeemer",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/447290.zip"
+  },
+  {
+    "appid": 448320,
+    "name": "GIBZ",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/448320.zip"
+  },
+  {
+    "appid": 453090,
+    "name": "Parkitect",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/453090.zip"
+  },
+  {
+    "appid": 454650,
+    "name": "DRAGON BALL XENOVERSE 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/454650.zip"
+  },
+  {
+    "appid": 455120,
+    "name": "Stay Close",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/455120.zip"
+  },
+  {
+    "appid": 457140,
+    "name": "Oxygen Not Included",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/457140.zip"
+  },
+  {
+    "appid": 459220,
+    "name": "Halo Wars: Definitive Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/459220.zip"
+  },
+  {
+    "appid": 459370,
+    "name": "Riverbond",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/459370.zip"
+  },
+  {
+    "appid": 461870,
+    "name": "Police Simulator: Patrol Duty",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/461870.zip"
+  },
+  {
+    "appid": 464650,
+    "name": "Runbow",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/464650.zip"
+  },
+  {
+    "appid": 465200,
+    "name": "Fury Unleashed",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/465200.zip"
+  },
+  {
+    "appid": 465240,
+    "name": "Serious Sam VR: The Last Hope",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/465240.zip"
+  },
+  {
+    "appid": 466980,
+    "name": "Can't Drive This",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/466980.zip"
+  },
+  {
+    "appid": 471550,
+    "name": "Nine Parchments",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/471550.zip"
+  },
+  {
+    "appid": 471810,
+    "name": "Death Squared",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/471810.zip"
+  },
+  {
+    "appid": 473690,
+    "name": "Absolver",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/473690.zip"
+  },
+  {
+    "appid": 475150,
+    "name": "Titan Quest Anniversary Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/475150.zip"
+  },
+  {
+    "appid": 477160,
+    "name": "Human Fall Flat",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/477160.zip"
+  },
+  {
+    "appid": 480650,
+    "name": "Yu-Gi-Oh! Legacy of the Duelist",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/480650.zip"
+  },
+  {
+    "appid": 482450,
+    "name": "Nitroplus Blasterz: Heroines Infinite Duel",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/482450.zip"
+  },
+  {
+    "appid": 485510,
+    "name": "Nioh: Complete Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/485510.zip"
+  },
+  {
+    "appid": 487000,
+    "name": "Quest Hunter",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/487000.zip"
+  },
+  {
+    "appid": 488860,
+    "name": "MADNESS: Project Nexus",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/488860.zip"
+  },
+  {
+    "appid": 489630,
+    "name": "Warhammer 40,000: Gladius - Relics of War",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/489630.zip"
+  },
+  {
+    "appid": 490920,
+    "name": "Wolfpack",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/490920.zip"
+  },
+  {
+    "appid": 492720,
+    "name": "Tropico 6",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/492720.zip"
+  },
+  {
+    "appid": 493520,
+    "name": "GTFO",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/493520.zip"
+  },
+  {
+    "appid": 493840,
+    "name": "Marvel vs. Capcom: Infinite",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/493840.zip"
+  },
+  {
+    "appid": 493900,
+    "name": "Dungeons 3",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/493900.zip"
+  },
+  {
+    "appid": 495420,
+    "name": "State of Decay 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/495420.zip"
+  },
+  {
+    "appid": 499660,
+    "name": "Medieval Kingdom Wars",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/499660.zip"
+  },
+  {
+    "appid": 500260,
+    "name": "Ben and Ed - Blood Party",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/500260.zip"
+  },
+  {
+    "appid": 501590,
+    "name": "Bulletstorm: Full Clip Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/501590.zip"
+  },
+  {
+    "appid": 502500,
+    "name": "ACE COMBAT™7: SKIES UNKNOWN",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/502500.zip"
+  },
+  {
+    "appid": 503350,
+    "name": "White Noise 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/503350.zip"
+  },
+  {
+    "appid": 505740,
+    "name": "Eximius: Seize the Frontline",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/505740.zip"
+  },
+  {
+    "appid": 506500,
+    "name": "Party Panic",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/506500.zip"
+  },
+  {
+    "appid": 507490,
+    "name": "Ashes of the Singularity: Escalation",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/507490.zip"
+  },
+  {
+    "appid": 508440,
+    "name": "Totally Accurate Battle Simulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/508440.zip"
+  },
+  {
+    "appid": 508790,
+    "name": "Flat Heroes",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/508790.zip"
+  },
+  {
+    "appid": 508980,
+    "name": "Crashday Redline Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/508980.zip"
+  },
+  {
+    "appid": 509980,
+    "name": "BIGFOOT",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/509980.zip"
+  },
+  {
+    "appid": 510500,
+    "name": "Executive Assault 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/510500.zip"
+  },
+  {
+    "appid": 512900,
+    "name": "Streets of Rogue",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/512900.zip"
+  },
+  {
+    "appid": 513710,
+    "name": "SCUM",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/513710.zip"
+  },
+  {
+    "appid": 515180,
+    "name": "Bus Simulator 18",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/515180.zip"
+  },
+  {
+    "appid": 516750,
+    "name": "My Summer Car",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/516750.zip"
+  },
+  {
+    "appid": 518790,
+    "name": "theHunter: Call of the Wild™",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/518790.zip"
+  },
+  {
+    "appid": 519860,
+    "name": "DUSK",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/519860.zip"
+  },
+  {
+    "appid": 520440,
+    "name": "GUILTY GEAR Xrd REV 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/520440.zip"
+  },
+  {
+    "appid": 523660,
+    "name": "HYPERCHARGE: Unboxed",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/523660.zip"
+  },
+  {
+    "appid": 526870,
+    "name": "Satisfactory",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/526870.zip"
+  },
+  {
+    "appid": 526980,
+    "name": "Handball 17",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/526980.zip"
+  },
+  {
+    "appid": 527230,
+    "name": "For The King",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/527230.zip"
+  },
+  {
+    "appid": 528230,
+    "name": "SYNTHETIK",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/528230.zip"
+  },
+  {
+    "appid": 528550,
+    "name": "Drunkn Bar Fight",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/528550.zip"
+  },
+  {
+    "appid": 529340,
+    "name": "Victoria 3",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/529340.zip"
+  },
+  {
+    "appid": 529490,
+    "name": "Rogue Trooper Redux",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/529490.zip"
+  },
+  {
+    "appid": 533010,
+    "name": "Filthy Lucre",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/533010.zip"
+  },
+  {
+    "appid": 535480,
+    "name": "Sundered: Eldritch Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/535480.zip"
+  },
+  {
+    "appid": 535520,
+    "name": "Nidhogg 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/535520.zip"
+  },
+  {
+    "appid": 538100,
+    "name": "Feel The Snow",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/538100.zip"
+  },
+  {
+    "appid": 539400,
+    "name": "Son of a Witch",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/539400.zip"
+  },
+  {
+    "appid": 539470,
+    "name": "Police Stories",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/539470.zip"
+  },
+  {
+    "appid": 543460,
+    "name": "Dead Rising 4",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/543460.zip"
+  },
+  {
+    "appid": 544390,
+    "name": "NITE Team 4",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/544390.zip"
+  },
+  {
+    "appid": 544550,
+    "name": "Stationeers",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/544550.zip"
+  },
+  {
+    "appid": 544750,
+    "name": "SOULCALIBUR VI",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/544750.zip"
+  },
+  {
+    "appid": 546050,
+    "name": "Puyo Puyo™Tetris® ",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/546050.zip"
+  },
+  {
+    "appid": 548430,
+    "name": "Deep Rock Galactic",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/548430.zip"
+  },
+  {
+    "appid": 551700,
+    "name": "Gunheart",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/551700.zip"
+  },
+  {
+    "appid": 552080,
+    "name": "IronWolf VR",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/552080.zip"
+  },
+  {
+    "appid": 552100,
+    "name": "Brick Rigs",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/552100.zip"
+  },
+  {
+    "appid": 552500,
+    "name": "Warhammer: Vermintide 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/552500.zip"
+  },
+  {
+    "appid": 553310,
+    "name": "Lethal League Blaze",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/553310.zip"
+  },
+  {
+    "appid": 556050,
+    "name": "Hyper Jam",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/556050.zip"
+  },
+  {
+    "appid": 559650,
+    "name": "Witch It",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/559650.zip"
+  },
+  {
+    "appid": 566860,
+    "name": "VR Dungeon Knight",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/566860.zip"
+  },
+  {
+    "appid": 568570,
+    "name": "Force of Nature",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/568570.zip"
+  },
+  {
+    "appid": 570940,
+    "name": "DARK SOULS™: REMASTERED",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/570940.zip"
+  },
+  {
+    "appid": 572220,
+    "name": "MageQuit",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/572220.zip"
+  },
+  {
+    "appid": 572430,
+    "name": "Party Hard 2 ",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/572430.zip"
+  },
+  {
+    "appid": 573090,
+    "name": "Stormworks: Build and Rescue",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/573090.zip"
+  },
+  {
+    "appid": 573100,
+    "name": "Battlefleet Gothic: Armada 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/573100.zip"
+  },
+  {
+    "appid": 574090,
+    "name": "MOTHERGUNSHIP",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/574090.zip"
+  },
+  {
+    "appid": 578330,
+    "name": "LEGO® City Undercover",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/578330.zip"
+  },
+  {
+    "appid": 582010,
+    "name": "Monster Hunter: World",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/582010.zip"
+  },
+  {
+    "appid": 585420,
+    "name": "Trailmakers",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/585420.zip"
+  },
+  {
+    "appid": 586140,
+    "name": "BlazBlue Centralfiction",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/586140.zip"
+  },
+  {
+    "appid": 586200,
+    "name": "Street Fighter 30th Anniversary Collection",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/586200.zip"
+  },
+  {
+    "appid": 587520,
+    "name": "Dungeons of Sundaria",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/587520.zip"
+  },
+  {
+    "appid": 588030,
+    "name": "Derail Valley",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/588030.zip"
+  },
+  {
+    "appid": 591760,
+    "name": "HyperBrawl Tournament",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/591760.zip"
+  },
+  {
+    "appid": 592480,
+    "name": "Knights and Bikes",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/592480.zip"
+  },
+  {
+    "appid": 593600,
+    "name": "PixARK",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/593600.zip"
+  },
+  {
+    "appid": 594570,
+    "name": "Total War: WARHAMMER II",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/594570.zip"
+  },
+  {
+    "appid": 597170,
+    "name": "Clone Drone in the Danger Zone",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/597170.zip"
+  },
+  {
+    "appid": 597180,
+    "name": "Old World",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/597180.zip"
+  },
+  {
+    "appid": 598550,
+    "name": "Huntdown",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/598550.zip"
+  },
+  {
+    "appid": 598960,
+    "name": "Mashinky",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/598960.zip"
+  },
+  {
+    "appid": 599080,
+    "name": "The Blackout Club",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/599080.zip"
+  },
+  {
+    "appid": 600150,
+    "name": "Warpaint",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/600150.zip"
+  },
+  {
+    "appid": 602960,
+    "name": "Barotrauma",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/602960.zip"
+  },
+  {
+    "appid": 607050,
+    "name": "Wargroove",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/607050.zip"
+  },
+  {
+    "appid": 607890,
+    "name": "Sword Art Online: Hollow Realization Deluxe Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/607890.zip"
+  },
+  {
+    "appid": 609920,
+    "name": "Hotshot Racing",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/609920.zip"
+  },
+  {
+    "appid": 610180,
+    "name": "The Jackbox Party Pack 4",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/610180.zip"
+  },
+  {
+    "appid": 610380,
+    "name": "Ratty Catty",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/610380.zip"
+  },
+  {
+    "appid": 611160,
+    "name": "Karnage Chronicles",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/611160.zip"
+  },
+  {
+    "appid": 611190,
+    "name": "ROGUE SHIFT",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/611190.zip"
+  },
+  {
+    "appid": 612040,
+    "name": "Duel on Board",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/612040.zip"
+  },
+  {
+    "appid": 612470,
+    "name": "Bio Inc. Redemption",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/612470.zip"
+  },
+  {
+    "appid": 617290,
+    "name": "Remnant: From the Ashes",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/617290.zip"
+  },
+  {
+    "appid": 619540,
+    "name": "Darkwater",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/619540.zip"
+  },
+  {
+    "appid": 619820,
+    "name": "Heroes of Hammerwatch II",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/619820.zip"
+  },
+  {
+    "appid": 619880,
+    "name": "ATOMEGA",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/619880.zip"
+  },
+  {
+    "appid": 620590,
+    "name": "Ancestors Legacy",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/620590.zip"
+  },
+  {
+    "appid": 620980,
+    "name": "Beat Saber",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/620980.zip"
+  },
+  {
+    "appid": 622770,
+    "name": "Hacktag",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/622770.zip"
+  },
+  {
+    "appid": 626690,
+    "name": "Sword Art Online: Fatal Bullet",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/626690.zip"
+  },
+  {
+    "appid": 627270,
+    "name": "Injustice™ 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/627270.zip"
+  },
+  {
+    "appid": 628670,
+    "name": "Hellpoint",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/628670.zip"
+  },
+  {
+    "appid": 632300,
+    "name": "Hobo: Tough Life",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/632300.zip"
+  },
+  {
+    "appid": 632360,
+    "name": "Risk of Rain 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/632360.zip"
+  },
+  {
+    "appid": 632510,
+    "name": "Blockle",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/632510.zip"
+  },
+  {
+    "appid": 633460,
+    "name": "Tannenberg",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/633460.zip"
+  },
+  {
+    "appid": 636480,
+    "name": "Ravenfield",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/636480.zip"
+  },
+  {
+    "appid": 641320,
+    "name": "Cooking Simulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/641320.zip"
+  },
+  {
+    "appid": 641780,
+    "name": "The Drone Racing League Simulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/641780.zip"
+  },
+  {
+    "appid": 641990,
+    "name": "The Escapists 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/641990.zip"
+  },
+  {
+    "appid": 647830,
+    "name": "LEGO® MARVEL Super Heroes 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/647830.zip"
+  },
+  {
+    "appid": 648800,
+    "name": "Raft",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/648800.zip"
+  },
+  {
+    "appid": 649950,
+    "name": "Ashen",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/649950.zip"
+  },
+  {
+    "appid": 650220,
+    "name": "Interplanetary: Enhanced Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/650220.zip"
+  },
+  {
+    "appid": 656700,
+    "name": "RICO",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/656700.zip"
+  },
+  {
+    "appid": 657200,
+    "name": "Hand Simulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/657200.zip"
+  },
+  {
+    "appid": 661940,
+    "name": "Regular Human Basketball",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/661940.zip"
+  },
+  {
+    "appid": 667970,
+    "name": "VTOL VR",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/667970.zip"
+  },
+  {
+    "appid": 669330,
+    "name": "Mechabellum",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/669330.zip"
+  },
+  {
+    "appid": 671510,
+    "name": "Desolate",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/671510.zip"
+  },
+  {
+    "appid": 673750,
+    "name": "Super Bunny Man",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/673750.zip"
+  },
+  {
+    "appid": 673950,
+    "name": "Farm Together",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/673950.zip"
+  },
+  {
+    "appid": 674940,
+    "name": "Stick Fight: The Game",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/674940.zip"
+  },
+  {
+    "appid": 675010,
+    "name": "MudRunner",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/675010.zip"
+  },
+  {
+    "appid": 676500,
+    "name": "Time Warpers",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/676500.zip"
+  },
+  {
+    "appid": 677120,
+    "name": "Heroes of Hammerwatch",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/677120.zip"
+  },
+  {
+    "appid": 677160,
+    "name": "We Were Here Too",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/677160.zip"
+  },
+  {
+    "appid": 677340,
+    "name": "The Colonists",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/677340.zip"
+  },
+  {
+    "appid": 678950,
+    "name": "DRAGON BALL FighterZ",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/678950.zip"
+  },
+  {
+    "appid": 678960,
+    "name": "CODE VEIN",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/678960.zip"
+  },
+  {
+    "appid": 680420,
+    "name": "OUTRIDERS",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/680420.zip"
+  },
+  {
+    "appid": 681280,
+    "name": "Descenders",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/681280.zip"
+  },
+  {
+    "appid": 684580,
+    "name": "Shoppe Keep 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/684580.zip"
+  },
+  {
+    "appid": 686200,
+    "name": "Door Kickers: Action Squad",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/686200.zip"
+  },
+  {
+    "appid": 688130,
+    "name": "Pogostuck: Rage With Your Friends",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/688130.zip"
+  },
+  {
+    "appid": 688540,
+    "name": "ZOMBIE RAID: No One Survives",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/688540.zip"
+  },
+  {
+    "appid": 690640,
+    "name": "Trine 4: The Nightmare Prince",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/690640.zip"
+  },
+  {
+    "appid": 692850,
+    "name": "Bloodstained: Ritual of the Night",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/692850.zip"
+  },
+  {
+    "appid": 692890,
+    "name": "Roboquest",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/692890.zip"
+  },
+  {
+    "appid": 694280,
+    "name": "Zombie Army 4: Dead War",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/694280.zip"
+  },
+  {
+    "appid": 695970,
+    "name": "Treadnauts",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/695970.zip"
+  },
+  {
+    "appid": 696140,
+    "name": "No Heroes Here",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/696140.zip"
+  },
+  {
+    "appid": 696170,
+    "name": "SENRAN KAGURA Peach Beach Splash",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/696170.zip"
+  },
+  {
+    "appid": 696220,
+    "name": "Folklore Hunter",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/696220.zip"
+  },
+  {
+    "appid": 698870,
+    "name": "Metaverse Keeper",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/698870.zip"
+  },
+  {
+    "appid": 701160,
+    "name": "Kingdom Two Crowns",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/701160.zip"
+  },
+  {
+    "appid": 702700,
+    "name": "Super Bomberman R",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/702700.zip"
+  },
+  {
+    "appid": 702890,
+    "name": "BlazBlue Cross Tag Battle",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/702890.zip"
+  },
+  {
+    "appid": 704270,
+    "name": "Generation Zero®",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/704270.zip"
+  },
+  {
+    "appid": 706020,
+    "name": "Fade to Silence",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/706020.zip"
+  },
+  {
+    "appid": 710920,
+    "name": "Darksiders Genesis",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/710920.zip"
+  },
+  {
+    "appid": 711980,
+    "name": "Starship EVO",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/711980.zip"
+  },
+  {
+    "appid": 712100,
+    "name": "A Total War Saga: THRONES OF BRITANNIA",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/712100.zip"
+  },
+  {
+    "appid": 715400,
+    "name": "Frozen Flame",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/715400.zip"
+  },
+  {
+    "appid": 718650,
+    "name": "Driftland: The Magic Revival",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/718650.zip"
+  },
+  {
+    "appid": 718850,
+    "name": "Age of Wonders: Planetfall",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/718850.zip"
+  },
+  {
+    "appid": 719040,
+    "name": "Wasteland 3",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/719040.zip"
+  },
+  {
+    "appid": 722180,
+    "name": "SURV1V3",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/722180.zip"
+  },
+  {
+    "appid": 722960,
+    "name": "CASE 2: Animatronics Survival",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/722960.zip"
+  },
+  {
+    "appid": 728740,
+    "name": "Sniper Elite V2 Remastered",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/728740.zip"
+  },
+  {
+    "appid": 728880,
+    "name": "Overcooked! 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/728880.zip"
+  },
+  {
+    "appid": 733460,
+    "name": "First Feudal",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/733460.zip"
+  },
+  {
+    "appid": 735280,
+    "name": "EMERGENCY 20",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/735280.zip"
+  },
+  {
+    "appid": 736820,
+    "name": "Knights of Honor II: Sovereign",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/736820.zip"
+  },
+  {
+    "appid": 737890,
+    "name": "Catastronauts",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/737890.zip"
+  },
+  {
+    "appid": 739080,
+    "name": "9 Monkeys of Shaolin",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/739080.zip"
+  },
+  {
+    "appid": 739630,
+    "name": "Phasmophobia",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/739630.zip"
+  },
+  {
+    "appid": 739650,
+    "name": "Drake Hollow",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/739650.zip"
+  },
+  {
+    "appid": 742420,
+    "name": "Saints Row",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/742420.zip"
+  },
+  {
+    "appid": 745970,
+    "name": "Terminal Conflict",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/745970.zip"
+  },
+  {
+    "appid": 747200,
+    "name": "Keplerth",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/747200.zip"
+  },
+  {
+    "appid": 750920,
+    "name": "Shadow of the Tomb Raider",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/750920.zip"
+  },
+  {
+    "appid": 751780,
+    "name": "Forager",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/751780.zip"
+  },
+  {
+    "appid": 752170,
+    "name": "Save Your Nuts",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/752170.zip"
+  },
+  {
+    "appid": 753640,
+    "name": "Outer Wilds",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/753640.zip"
+  },
+  {
+    "appid": 756530,
+    "name": "TOKYO GHOUL：re [CALL to EXIST]",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/756530.zip"
+  },
+  {
+    "appid": 759260,
+    "name": "Go All Out",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/759260.zip"
+  },
+  {
+    "appid": 760650,
+    "name": "Hammerting",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/760650.zip"
+  },
+  {
+    "appid": 760810,
+    "name": "Retimed",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/760810.zip"
+  },
+  {
+    "appid": 761910,
+    "name": "Worbital",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/761910.zip"
+  },
+  {
+    "appid": 763890,
+    "name": "Wildermyth",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/763890.zip"
+  },
+  {
+    "appid": 768200,
+    "name": "Smalland: Survive the Wilds",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/768200.zip"
+  },
+  {
+    "appid": 768520,
+    "name": "Red Solstice 2: Survivors",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/768520.zip"
+  },
+  {
+    "appid": 774181,
+    "name": "Rhythm Doctor",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/774181.zip"
+  },
+  {
+    "appid": 774241,
+    "name": "Warhammer: Chaosbane",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/774241.zip"
+  },
+  {
+    "appid": 774461,
+    "name": "The Jackbox Party Pack 5",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/774461.zip"
+  },
+  {
+    "appid": 774801,
+    "name": "Crab Champions",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/774801.zip"
+  },
+  {
+    "appid": 774861,
+    "name": "Project Winter",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/774861.zip"
+  },
+  {
+    "appid": 779340,
+    "name": "Total War: THREE KINGDOMS",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/779340.zip"
+  },
+  {
+    "appid": 780290,
+    "name": "Gloomhaven",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/780290.zip"
+  },
+  {
+    "appid": 780310,
+    "name": "The Riftbreaker",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/780310.zip"
+  },
+  {
+    "appid": 780350,
+    "name": "Unruly Heroes",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/780350.zip"
+  },
+  {
+    "appid": 781180,
+    "name": "Technicity",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/781180.zip"
+  },
+  {
+    "appid": 782330,
+    "name": "DOOM Eternal",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/782330.zip"
+  },
+  {
+    "appid": 784080,
+    "name": "MechWarrior 5: Mercenaries",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/784080.zip"
+  },
+  {
+    "appid": 785260,
+    "name": "Team Sonic Racing™",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/785260.zip"
+  },
+  {
+    "appid": 785770,
+    "name": "Notruf 112 - Die Feuerwehr Simulation 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/785770.zip"
+  },
+  {
+    "appid": 787810,
+    "name": "Rogue Heroes: Ruins of Tasos",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/787810.zip"
+  },
+  {
+    "appid": 787860,
+    "name": "Farming Simulator 19",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/787860.zip"
+  },
+  {
+    "appid": 792710,
+    "name": "Levelhead",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/792710.zip"
+  },
+  {
+    "appid": 794490,
+    "name": "Journey Of Life",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/794490.zip"
+  },
+  {
+    "appid": 797400,
+    "name": "Railroad Corporation",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/797400.zip"
+  },
+  {
+    "appid": 797410,
+    "name": "Headsnatchers",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/797410.zip"
+  },
+  {
+    "appid": 801630,
+    "name": "UNDER NIGHT IN-BIRTH Exe:Late[cl-r]",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/801630.zip"
+  },
+  {
+    "appid": 801750,
+    "name": "Hot Shot Burn",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/801750.zip"
+  },
+  {
+    "appid": 804490,
+    "name": "Creed: Rise to Glory™",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/804490.zip"
+  },
+  {
+    "appid": 810040,
+    "name": "Swords 'n Magic and Stuff",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/810040.zip"
+  },
+  {
+    "appid": 815370,
+    "name": "Green Hell",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/815370.zip"
+  },
+  {
+    "appid": 816090,
+    "name": "Space Hulk: Deathwing - Enhanced Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/816090.zip"
+  },
+  {
+    "appid": 817540,
+    "name": "SpellForce 3: Soul Harvest",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/817540.zip"
+  },
+  {
+    "appid": 818320,
+    "name": "LEGO® The Incredibles",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/818320.zip"
+  },
+  {
+    "appid": 820520,
+    "name": "Deceive Inc.",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/820520.zip"
+  },
+  {
+    "appid": 823950,
+    "name": "Re:Legend",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/823950.zip"
+  },
+  {
+    "appid": 824550,
+    "name": "SD GUNDAM BATTLE ALLIANCE",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/824550.zip"
+  },
+  {
+    "appid": 824720,
+    "name": "Pure Rock Crawling",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/824720.zip"
+  },
+  {
+    "appid": 826630,
+    "name": "Iron Harvest",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/826630.zip"
+  },
+  {
+    "appid": 829110,
+    "name": "LEGO® DC Super-Villains",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/829110.zip"
+  },
+  {
+    "appid": 829660,
+    "name": "No Time to Relax",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/829660.zip"
+  },
+  {
+    "appid": 830820,
+    "name": "Jets'n'Guns 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/830820.zip"
+  },
+  {
+    "appid": 835650,
+    "name": "Rising Lords",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/835650.zip"
+  },
+  {
+    "appid": 837470,
+    "name": "Untitled Goose Game",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/837470.zip"
+  },
+  {
+    "appid": 838380,
+    "name": "DEAD OR ALIVE 6",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/838380.zip"
+  },
+  {
+    "appid": 839420,
+    "name": "Krampus is Home",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/839420.zip"
+  },
+  {
+    "appid": 840010,
+    "name": "Garden Paws",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/840010.zip"
+  },
+  {
+    "appid": 840390,
+    "name": "Spacebase Startopia",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/840390.zip"
+  },
+  {
+    "appid": 841110,
+    "name": "HOLY COW! Milking Simulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/841110.zip"
+  },
+  {
+    "appid": 843200,
+    "name": "Alien Hominid Invasion",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/843200.zip"
+  },
+  {
+    "appid": 846770,
+    "name": "DYSMANTLE",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/846770.zip"
+  },
+  {
+    "appid": 846800,
+    "name": "Diner Bros",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/846800.zip"
+  },
+  {
+    "appid": 848480,
+    "name": "Creeper World 4",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/848480.zip"
+  },
+  {
+    "appid": 850190,
+    "name": "Goat Simulator 3",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/850190.zip"
+  },
+  {
+    "appid": 858820,
+    "name": "Tribes of Midgard",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/858820.zip"
+  },
+  {
+    "appid": 859580,
+    "name": "Imperator: Rome",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/859580.zip"
+  },
+  {
+    "appid": 860020,
+    "name": "Exfil",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/860020.zip"
+  },
+  {
+    "appid": 862800,
+    "name": "Storm Chasers",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/862800.zip"
+  },
+  {
+    "appid": 865360,
+    "name": "We Were Here Together",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/865360.zip"
+  },
+  {
+    "appid": 865980,
+    "name": "BOSSGARD",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/865980.zip"
+  },
+  {
+    "appid": 866570,
+    "name": "System Shock 2: 25th Anniversary Remaster",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/866570.zip"
+  },
+  {
+    "appid": 867210,
+    "name": "Songs of Conquest",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/867210.zip"
+  },
+  {
+    "appid": 868150,
+    "name": "Takelings House Party",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/868150.zip"
+  },
+  {
+    "appid": 871540,
+    "name": "BMX Streets",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/871540.zip"
+  },
+  {
+    "appid": 872670,
+    "name": "SCP: 5K (Alpha Testing)",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/872670.zip"
+  },
+  {
+    "appid": 876650,
+    "name": "Aground",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/876650.zip"
+  },
+  {
+    "appid": 877010,
+    "name": "Beyond Contact",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/877010.zip"
+  },
+  {
+    "appid": 880940,
+    "name": "Pummel Party",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/880940.zip"
+  },
+  {
+    "appid": 881020,
+    "name": "Granblue Fantasy: Relink",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/881020.zip"
+  },
+  {
+    "appid": 885970,
+    "name": "Total War: ROME REMASTERED",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/885970.zip"
+  },
+  {
+    "appid": 887450,
+    "name": "Tunche",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/887450.zip"
+  },
+  {
+    "appid": 887570,
+    "name": "NEBULOUS: Fleet Command",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/887570.zip"
+  },
+  {
+    "appid": 890550,
+    "name": "RUMBLE",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/890550.zip"
+  },
+  {
+    "appid": 891360,
+    "name": "Hellcoming",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/891360.zip"
+  },
+  {
+    "appid": 892860,
+    "name": "Hot Brass",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/892860.zip"
+  },
+  {
+    "appid": 892970,
+    "name": "Valheim",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/892970.zip"
+  },
+  {
+    "appid": 897450,
+    "name": "The Survivalists",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/897450.zip"
+  },
+  {
+    "appid": 898800,
+    "name": "Constructor Plus",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/898800.zip"
+  },
+  {
+    "appid": 899440,
+    "name": "GOD EATER 3",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/899440.zip"
+  },
+  {
+    "appid": 905340,
+    "name": "Heave Ho",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/905340.zip"
+  },
+  {
+    "appid": 905970,
+    "name": "Steel Crew",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/905970.zip"
+  },
+  {
+    "appid": 907650,
+    "name": "Stronghold: Warlords",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/907650.zip"
+  },
+  {
+    "appid": 908060,
+    "name": "Talisman: Digital 5th Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/908060.zip"
+  },
+  {
+    "appid": 910490,
+    "name": "Killsquad",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/910490.zip"
+  },
+  {
+    "appid": 911430,
+    "name": "Good Company",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/911430.zip"
+  },
+  {
+    "appid": 914260,
+    "name": "HALF DEAD 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/914260.zip"
+  },
+  {
+    "appid": 914290,
+    "name": "Welcome to Princeland",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/914290.zip"
+  },
+  {
+    "appid": 914710,
+    "name": "Cat Quest II",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/914710.zip"
+  },
+  {
+    "appid": 915810,
+    "name": "Midnight Ghost Hunt",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/915810.zip"
+  },
+  {
+    "appid": 917950,
+    "name": "Vellum",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/917950.zip"
+  },
+  {
+    "appid": 920210,
+    "name": "LEGO® Star Wars™: The Skywalker Saga",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/920210.zip"
+  },
+  {
+    "appid": 922500,
+    "name": "KILL la KILL -IF",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/922500.zip"
+  },
+  {
+    "appid": 925010,
+    "name": "Ghostship Chronicles",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/925010.zip"
+  },
+  {
+    "appid": 926990,
+    "name": "WolfQuest: Anniversary Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/926990.zip"
+  },
+  {
+    "appid": 934700,
+    "name": "Dead Island 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/934700.zip"
+  },
+  {
+    "appid": 934930,
+    "name": "RDS - The Official Drift Videogame",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/934930.zip"
+  },
+  {
+    "appid": 936720,
+    "name": "Wrench",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/936720.zip"
+  },
+  {
+    "appid": 939850,
+    "name": "The Dark Pictures Anthology: Man of Medan",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/939850.zip"
+  },
+  {
+    "appid": 940710,
+    "name": "Colt Canyon",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/940710.zip"
+  },
+  {
+    "appid": 943370,
+    "name": "Bravery and Greed",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/943370.zip"
+  },
+  {
+    "appid": 944010,
+    "name": "SWINE HD Remaster",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/944010.zip"
+  },
+  {
+    "appid": 944080,
+    "name": "Pode",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/944080.zip"
+  },
+  {
+    "appid": 945360,
+    "name": "Among Us",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/945360.zip"
+  },
+  {
+    "appid": 945770,
+    "name": "Dark Envoy",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/945770.zip"
+  },
+  {
+    "appid": 946880,
+    "name": "World of Football",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/946880.zip"
+  },
+  {
+    "appid": 951440,
+    "name": "Volcanoids",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/951440.zip"
+  },
+  {
+    "appid": 953880,
+    "name": "First Class Trouble",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/953880.zip"
+  },
+  {
+    "appid": 958520,
+    "name": "33 Immortals",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/958520.zip"
+  },
+  {
+    "appid": 960040,
+    "name": "Clash of Chefs VR",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/960040.zip"
+  },
+  {
+    "appid": 960090,
+    "name": "Bloons TD 6",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/960090.zip"
+  },
+  {
+    "appid": 960690,
+    "name": "One Step From Eden",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/960690.zip"
+  },
+  {
+    "appid": 962130,
+    "name": "Grounded",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/962130.zip"
+  },
+  {
+    "appid": 964440,
+    "name": "Hell is Others",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/964440.zip"
+  },
+  {
+    "appid": 964800,
+    "name": "Prodeus",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/964800.zip"
+  },
+  {
+    "appid": 967050,
+    "name": "Pacify",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/967050.zip"
+  },
+  {
+    "appid": 969990,
+    "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/969990.zip"
+  },
+  {
+    "appid": 970840,
+    "name": "Overpass™",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/970840.zip"
+  },
+  {
+    "appid": 971620,
+    "name": "Puyo Puyo Champions",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/971620.zip"
+  },
+  {
+    "appid": 971690,
+    "name": "Cake Bash",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/971690.zip"
+  },
+  {
+    "appid": 973810,
+    "name": "Journey To The Savage Planet",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/973810.zip"
+  },
+  {
+    "appid": 976310,
+    "name": "Mortal Kombat 11",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/976310.zip"
+  },
+  {
+    "appid": 976730,
+    "name": "Halo: The Master Chief Collection",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/976730.zip"
+  },
+  {
+    "appid": 976890,
+    "name": "Hidden Deep",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/976890.zip"
+  },
+  {
+    "appid": 976900,
+    "name": "Lumberhill",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/976900.zip"
+  },
+  {
+    "appid": 977510,
+    "name": "Time to Morp",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/977510.zip"
+  },
+  {
+    "appid": 977570,
+    "name": "The Experiment: Escape Room",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/977570.zip"
+  },
+  {
+    "appid": 978300,
+    "name": "Saints Row The Third Remastered",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/978300.zip"
+  },
+  {
+    "appid": 979070,
+    "name": "Just Die Already",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/979070.zip"
+  },
+  {
+    "appid": 979690,
+    "name": "The Ascent",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/979690.zip"
+  },
+  {
+    "appid": 983870,
+    "name": "FOUNDRY",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/983870.zip"
+  },
+  {
+    "appid": 985890,
+    "name": "Streets of Rage 4",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/985890.zip"
+  },
+  {
+    "appid": 985900,
+    "name": "Young Souls",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/985900.zip"
+  },
+  {
+    "appid": 990920,
+    "name": "Sea of Craft",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/990920.zip"
+  },
+  {
+    "appid": 992300,
+    "name": "嗜血印 Bloody Spell",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/992300.zip"
+  },
+  {
+    "appid": 992910,
+    "name": "The Black Masses",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/992910.zip"
+  },
+  {
+    "appid": 995050,
+    "name": "Havocado",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/995050.zip"
+  },
+  {
+    "appid": 996770,
+    "name": "Moving Out",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/996770.zip"
+  },
+  {
+    "appid": 997010,
+    "name": "Police Simulator: Patrol Officers",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/997010.zip"
+  },
+  {
+    "appid": 1000360,
+    "name": "Hellish Quart",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1000360.zip"
+  },
+  {
+    "appid": 1002000,
+    "name": "Spitlings",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1002000.zip"
+  },
+  {
+    "appid": 1003590,
+    "name": "Tetris® Effect: Connected",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1003590.zip"
+  },
+  {
+    "appid": 1004490,
+    "name": "Tools Up!",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1004490.zip"
+  },
+  {
+    "appid": 1005300,
+    "name": "The Jackbox Party Pack 6",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1005300.zip"
+  },
+  {
+    "appid": 1005400,
+    "name": "Star Drift Evolution",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1005400.zip"
+  },
+  {
+    "appid": 1007040,
+    "name": "EARTH DEFENSE FORCE 5",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1007040.zip"
+  },
+  {
+    "appid": 1011610,
+    "name": "Radio General",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1011610.zip"
+  },
+  {
+    "appid": 1011670,
+    "name": "Totally Reliable Delivery Service",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1011670.zip"
+  },
+  {
+    "appid": 1013040,
+    "name": "Planetoid Pioneers Online",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1013040.zip"
+  },
+  {
+    "appid": 1015140,
+    "name": "10 Miles To Safety",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1015140.zip"
+  },
+  {
+    "appid": 1017180,
+    "name": "The Long Drive",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1017180.zip"
+  },
+  {
+    "appid": 1020540,
+    "name": "CONTRA: ROGUE CORPS",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1020540.zip"
+  },
+  {
+    "appid": 1020790,
+    "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1020790.zip"
+  },
+  {
+    "appid": 1021770,
+    "name": "Wanba Warriors",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1021770.zip"
+  },
+  {
+    "appid": 1023550,
+    "name": "Rogue Star Rescue",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1023550.zip"
+  },
+  {
+    "appid": 1025600,
+    "name": "Battle Realms: Zen Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1025600.zip"
+  },
+  {
+    "appid": 1027820,
+    "name": "Hand Simulator: Horror",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1027820.zip"
+  },
+  {
+    "appid": 1029210,
+    "name": "30XX",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1029210.zip"
+  },
+  {
+    "appid": 1035510,
+    "name": "Ultimate Zombie Defense",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1035510.zip"
+  },
+  {
+    "appid": 1035560,
+    "name": "Struggling",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1035560.zip"
+  },
+  {
+    "appid": 1038250,
+    "name": "DIRT 5",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1038250.zip"
+  },
+  {
+    "appid": 1039890,
+    "name": "EARTH DEFENSE FORCE: IRON RAIN",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1039890.zip"
+  },
+  {
+    "appid": 1043150,
+    "name": "Danger Gazers",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1043150.zip"
+  },
+  {
+    "appid": 1043520,
+    "name": "Polterguys",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1043520.zip"
+  },
+  {
+    "appid": 1045080,
+    "name": "Curious Cases",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1045080.zip"
+  },
+  {
+    "appid": 1049320,
+    "name": "River City Girls",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1049320.zip"
+  },
+  {
+    "appid": 1054430,
+    "name": "Fling to the Finish",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1054430.zip"
+  },
+  {
+    "appid": 1060230,
+    "name": "Sapiens",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1060230.zip"
+  },
+  {
+    "appid": 1061880,
+    "name": "Conan Chop Chop",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1061880.zip"
+  },
+  {
+    "appid": 1062520,
+    "name": "Dinkum",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1062520.zip"
+  },
+  {
+    "appid": 1062810,
+    "name": "Inkbound",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1062810.zip"
+  },
+  {
+    "appid": 1062830,
+    "name": "Embr",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1062830.zip"
+  },
+  {
+    "appid": 1063030,
+    "name": "Monaco 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1063030.zip"
+  },
+  {
+    "appid": 1063420,
+    "name": "Void Crew",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1063420.zip"
+  },
+  {
+    "appid": 1063590,
+    "name": "Rogue Masters",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1063590.zip"
+  },
+  {
+    "appid": 1065310,
+    "name": "Evil West",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1065310.zip"
+  },
+  {
+    "appid": 1066890,
+    "name": "Automobilista 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1066890.zip"
+  },
+  {
+    "appid": 1072420,
+    "name": "DRAGON QUEST BUILDERS™ 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1072420.zip"
+  },
+  {
+    "appid": 1075190,
+    "name": "A Game of Thrones: The Board Game",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1075190.zip"
+  },
+  {
+    "appid": 1077290,
+    "name": "SuperSmash",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1077290.zip"
+  },
+  {
+    "appid": 1078920,
+    "name": "Main Assembly",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1078920.zip"
+  },
+  {
+    "appid": 1080010,
+    "name": "Witchtastic",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1080010.zip"
+  },
+  {
+    "appid": 1080410,
+    "name": "Bake 'n Switch",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1080410.zip"
+  },
+  {
+    "appid": 1084600,
+    "name": "My Time at Sandrock",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1084600.zip"
+  },
+  {
+    "appid": 1088790,
+    "name": "Rebel Inc: Escalation",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1088790.zip"
+  },
+  {
+    "appid": 1089090,
+    "name": "ONE PIECE: PIRATE WARRIORS 4",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1089090.zip"
+  },
+  {
+    "appid": 1096530,
+    "name": "Solasta: Crown of the Magister",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1096530.zip"
+  },
+  {
+    "appid": 1096610,
+    "name": "Incident Commander",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1096610.zip"
+  },
+  {
+    "appid": 1096690,
+    "name": "Mighty Fight Federation",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1096690.zip"
+  },
+  {
+    "appid": 1097840,
+    "name": "Gears 5",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1097840.zip"
+  },
+  {
+    "appid": 1100260,
+    "name": "Circle Empires Rivals",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1100260.zip"
+  },
+  {
+    "appid": 1100420,
+    "name": "Praetorians - HD Remaster",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1100420.zip"
+  },
+  {
+    "appid": 1101190,
+    "name": "Dungeon Defenders: Awakened",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1101190.zip"
+  },
+  {
+    "appid": 1101790,
+    "name": "War Mongrels",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1101790.zip"
+  },
+  {
+    "appid": 1103730,
+    "name": "Shing!",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1103730.zip"
+  },
+  {
+    "appid": 1103880,
+    "name": "Bullet Roulette VR",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1103880.zip"
+  },
+  {
+    "appid": 1106840,
+    "name": "Hydroneer",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1106840.zip"
+  },
+  {
+    "appid": 1110100,
+    "name": "Power Rangers: Battle for the Grid",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1110100.zip"
+  },
+  {
+    "appid": 1114290,
+    "name": "Windjammers 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1114290.zip"
+  },
+  {
+    "appid": 1116540,
+    "name": "DAVIGO",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1116540.zip"
+  },
+  {
+    "appid": 1121680,
+    "name": "Remnants",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1121680.zip"
+  },
+  {
+    "appid": 1124180,
+    "name": "Rail Route",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1124180.zip"
+  },
+  {
+    "appid": 1124300,
+    "name": "HUMANKIND™",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1124300.zip"
+  },
+  {
+    "appid": 1133500,
+    "name": "Overthrown",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1133500.zip"
+  },
+  {
+    "appid": 1134100,
+    "name": "Frozenheim",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1134100.zip"
+  },
+  {
+    "appid": 1134710,
+    "name": "NIMBY Rails",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1134710.zip"
+  },
+  {
+    "appid": 1135230,
+    "name": "Ember Knights",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1135230.zip"
+  },
+  {
+    "appid": 1136380,
+    "name": "Ultimate Fishing® Simulator 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1136380.zip"
+  },
+  {
+    "appid": 1139870,
+    "name": "The Dark Eye : Book of Heroes",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1139870.zip"
+  },
+  {
+    "appid": 1139980,
+    "name": "Travellers Rest",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1139980.zip"
+  },
+  {
+    "appid": 1140130,
+    "name": "Survival Vacancy",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1140130.zip"
+  },
+  {
+    "appid": 1140270,
+    "name": "Monster Prom 2: Monster Camp",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1140270.zip"
+  },
+  {
+    "appid": 1149440,
+    "name": "Dragon Marked For Death",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1149440.zip"
+  },
+  {
+    "appid": 1150530,
+    "name": "Wizard with a Gun",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1150530.zip"
+  },
+  {
+    "appid": 1154030,
+    "name": "Titan Quest II",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1154030.zip"
+  },
+  {
+    "appid": 1154830,
+    "name": "Scathe",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1154830.zip"
+  },
+  {
+    "appid": 1158310,
+    "name": "Crusader Kings III",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1158310.zip"
+  },
+  {
+    "appid": 1158370,
+    "name": "Aragami 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1158370.zip"
+  },
+  {
+    "appid": 1158940,
+    "name": "Blazing Sails",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1158940.zip"
+  },
+  {
+    "appid": 1159690,
+    "name": "Voidtrain",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1159690.zip"
+  },
+  {
+    "appid": 1162050,
+    "name": "Knockout Party",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1162050.zip"
+  },
+  {
+    "appid": 1167630,
+    "name": "Teardown",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1167630.zip"
+  },
+  {
+    "appid": 1171690,
+    "name": "Wayfinder",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1171690.zip"
+  },
+  {
+    "appid": 1176060,
+    "name": "Wigged Out",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1176060.zip"
+  },
+  {
+    "appid": 1178220,
+    "name": "ICBM",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1178220.zip"
+  },
+  {
+    "appid": 1183470,
+    "name": "Imperiums: Greek Wars",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1183470.zip"
+  },
+  {
+    "appid": 1183530,
+    "name": "Go Fight Fantastic",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1183530.zip"
+  },
+  {
+    "appid": 1184480,
+    "name": "Inertial Drift",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1184480.zip"
+  },
+  {
+    "appid": 1190970,
+    "name": "House Flipper 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1190970.zip"
+  },
+  {
+    "appid": 1194630,
+    "name": "The Dark Pictures Anthology: Little Hope",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1194630.zip"
+  },
+  {
+    "appid": 1195420,
+    "name": "Filthy Animals | Heist Simulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1195420.zip"
+  },
+  {
+    "appid": 1198740,
+    "name": "Colony Siege",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1198740.zip"
+  },
+  {
+    "appid": 1200570,
+    "name": "AColony",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1200570.zip"
+  },
+  {
+    "appid": 1200770,
+    "name": "Deathground",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1200770.zip"
+  },
+  {
+    "appid": 1201540,
+    "name": "HELLCARD",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1201540.zip"
+  },
+  {
+    "appid": 1201550,
+    "name": "Mad Experiments: Escape Room",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1201550.zip"
+  },
+  {
+    "appid": 1203190,
+    "name": "Wreckfest 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1203190.zip"
+  },
+  {
+    "appid": 1203620,
+    "name": "Enshrouded",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1203620.zip"
+  },
+  {
+    "appid": 1205970,
+    "name": "MX vs ATV Legends",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1205970.zip"
+  },
+  {
+    "appid": 1206610,
+    "name": "Rubber Bandits",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1206610.zip"
+  },
+  {
+    "appid": 1211630,
+    "name": "The Jackbox Party Pack 7",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1211630.zip"
+  },
+  {
+    "appid": 1211980,
+    "name": "Skopje '83",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1211980.zip"
+  },
+  {
+    "appid": 1213750,
+    "name": "Fight Crab",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1213750.zip"
+  },
+  {
+    "appid": 1216060,
+    "name": "DNF DUEL",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1216060.zip"
+  },
+  {
+    "appid": 1218280,
+    "name": "Bad Guys at School",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1218280.zip"
+  },
+  {
+    "appid": 1220170,
+    "name": "Eville",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1220170.zip"
+  },
+  {
+    "appid": 1222300,
+    "name": "Into The Flames",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1222300.zip"
+  },
+  {
+    "appid": 1222700,
+    "name": "A Way Out",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1222700.zip"
+  },
+  {
+    "appid": 1226990,
+    "name": "Mechanica",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1226990.zip"
+  },
+  {
+    "appid": 1228320,
+    "name": "Dungeon Looter",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1228320.zip"
+  },
+  {
+    "appid": 1229490,
+    "name": "ULTRAKILL",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1229490.zip"
+  },
+  {
+    "appid": 1233800,
+    "name": "Kandagawa Jet Girls",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1233800.zip"
+  },
+  {
+    "appid": 1236040,
+    "name": "Mahasona",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1236040.zip"
+  },
+  {
+    "appid": 1239080,
+    "name": "Door Kickers 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1239080.zip"
+  },
+  {
+    "appid": 1240590,
+    "name": "Sir Whoopass™: Immortal Death",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1240590.zip"
+  },
+  {
+    "appid": 1242980,
+    "name": "KeyWe",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1242980.zip"
+  },
+  {
+    "appid": 1243960,
+    "name": "Unspottable",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1243960.zip"
+  },
+  {
+    "appid": 1244950,
+    "name": "Battletoads",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1244950.zip"
+  },
+  {
+    "appid": 1245250,
+    "name": "Thrive: Heavy Lies The Crown",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1245250.zip"
+  },
+  {
+    "appid": 1245560,
+    "name": "Roots of Pacha",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1245560.zip"
+  },
+  {
+    "appid": 1245620,
+    "name": "ELDEN RING",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1245620.zip"
+  },
+  {
+    "appid": 1247360,
+    "name": "Grand Mountain Adventure",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1247360.zip"
+  },
+  {
+    "appid": 1252680,
+    "name": "SENTRY",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1252680.zip"
+  },
+  {
+    "appid": 1258460,
+    "name": "Escape First 3",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1258460.zip"
+  },
+  {
+    "appid": 1259790,
+    "name": "Puyo Puyo™ Tetris® 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1259790.zip"
+  },
+  {
+    "appid": 1263070,
+    "name": "Blightbound",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1263070.zip"
+  },
+  {
+    "appid": 1266540,
+    "name": "Ships At Sea",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1266540.zip"
+  },
+  {
+    "appid": 1266700,
+    "name": "Destroy All Humans! 2 - Reprobed",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1266700.zip"
+  },
+  {
+    "appid": 1268590,
+    "name": "Millennia",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1268590.zip"
+  },
+  {
+    "appid": 1269300,
+    "name": "This Means Warp",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1269300.zip"
+  },
+  {
+    "appid": 1272080,
+    "name": "PAYDAY 3",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1272080.zip"
+  },
+  {
+    "appid": 1273440,
+    "name": "OverDrift Festival",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1273440.zip"
+  },
+  {
+    "appid": 1275760,
+    "name": "Street Power Football",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1275760.zip"
+  },
+  {
+    "appid": 1276660,
+    "name": "Tinkertown",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1276660.zip"
+  },
+  {
+    "appid": 1277400,
+    "name": "Monster Hunter Stories 2: Wings of Ruin",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1277400.zip"
+  },
+  {
+    "appid": 1282100,
+    "name": "Remnant II",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1282100.zip"
+  },
+  {
+    "appid": 1282760,
+    "name": "Mad Streets",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1282760.zip"
+  },
+  {
+    "appid": 1284130,
+    "name": "Sclash",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1284130.zip"
+  },
+  {
+    "appid": 1284190,
+    "name": "The Planet Crafter",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1284190.zip"
+  },
+  {
+    "appid": 1286680,
+    "name": "Tiny Tina's Wonderlands",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1286680.zip"
+  },
+  {
+    "appid": 1301860,
+    "name": "Farlight Commanders",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1301860.zip"
+  },
+  {
+    "appid": 1303990,
+    "name": "Mini Motor Racing X",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1303990.zip"
+  },
+  {
+    "appid": 1304090,
+    "name": "Cannibal Crossing",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1304090.zip"
+  },
+  {
+    "appid": 1307550,
+    "name": "Craftopia",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1307550.zip"
+  },
+  {
+    "appid": 1314000,
+    "name": "Achilles: Legends Untold",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1314000.zip"
+  },
+  {
+    "appid": 1316700,
+    "name": "Escape from Kyoto House",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1316700.zip"
+  },
+  {
+    "appid": 1323900,
+    "name": "Scrapnaut",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1323900.zip"
+  },
+  {
+    "appid": 1324780,
+    "name": "Easy Red 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1324780.zip"
+  },
+  {
+    "appid": 1328990,
+    "name": "Godsworn",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1328990.zip"
+  },
+  {
+    "appid": 1329500,
+    "name": "SpiderHeck",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1329500.zip"
+  },
+  {
+    "appid": 1330000,
+    "name": "Stolen Realm",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1330000.zip"
+  },
+  {
+    "appid": 1331510,
+    "name": "Battle Talent",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1331510.zip"
+  },
+  {
+    "appid": 1335790,
+    "name": "Operation Tango",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1335790.zip"
+  },
+  {
+    "appid": 1337520,
+    "name": "Risk of Rain Returns",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1337520.zip"
+  },
+  {
+    "appid": 1340990,
+    "name": "Rise of the Ronin",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1340990.zip"
+  },
+  {
+    "appid": 1341290,
+    "name": "We Were Here Forever",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1341290.zip"
+  },
+  {
+    "appid": 1341490,
+    "name": "Hellsweeper VR",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1341490.zip"
+  },
+  {
+    "appid": 1341820,
+    "name": "As Dusk Falls",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1341820.zip"
+  },
+  {
+    "appid": 1342330,
+    "name": "Mad Games Tycoon 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1342330.zip"
+  },
+  {
+    "appid": 1342490,
+    "name": "Daemon X Machina: Titanic Scion",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1342490.zip"
+  },
+  {
+    "appid": 1345820,
+    "name": "Ragnarock",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1345820.zip"
+  },
+  {
+    "appid": 1356240,
+    "name": "Who Wants To Be A Millionaire?",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1356240.zip"
+  },
+  {
+    "appid": 1357210,
+    "name": "Galactic Civilizations IV",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1357210.zip"
+  },
+  {
+    "appid": 1358710,
+    "name": "Battle Cry of Freedom",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1358710.zip"
+  },
+  {
+    "appid": 1359090,
+    "name": "Zero Hour",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1359090.zip"
+  },
+  {
+    "appid": 1361510,
+    "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1361510.zip"
+  },
+  {
+    "appid": 1363360,
+    "name": "Noch",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1363360.zip"
+  },
+  {
+    "appid": 1371690,
+    "name": "GRAVEN",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1371690.zip"
+  },
+  {
+    "appid": 1372810,
+    "name": "Teamfight Manager",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1372810.zip"
+  },
+  {
+    "appid": 1374490,
+    "name": "RuneScape: Dragonwilds",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1374490.zip"
+  },
+  {
+    "appid": 1377380,
+    "name": "Night of the Dead",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1377380.zip"
+  },
+  {
+    "appid": 1383960,
+    "name": "Nickelodeon Kart Racers 2: Grand Prix",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1383960.zip"
+  },
+  {
+    "appid": 1384160,
+    "name": "GUILTY GEAR -STRIVE-",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1384160.zip"
+  },
+  {
+    "appid": 1390190,
+    "name": "APICO",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1390190.zip"
+  },
+  {
+    "appid": 1390700,
+    "name": "The Crackpet Show",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1390700.zip"
+  },
+  {
+    "appid": 1392560,
+    "name": "Serious Fun Football",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1392560.zip"
+  },
+  {
+    "appid": 1397390,
+    "name": "The Break-In",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1397390.zip"
+  },
+  {
+    "appid": 1397790,
+    "name": "Samurai GUNN 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1397790.zip"
+  },
+  {
+    "appid": 1411020,
+    "name": "Perennial Order",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1411020.zip"
+  },
+  {
+    "appid": 1420680,
+    "name": "Shards of Feyra",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1420680.zip"
+  },
+  {
+    "appid": 1420770,
+    "name": "Winter Resort Simulator 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1420770.zip"
+  },
+  {
+    "appid": 1424860,
+    "name": "Bish Bash Bots",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1424860.zip"
+  },
+  {
+    "appid": 1426210,
+    "name": "It Takes Two",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1426210.zip"
+  },
+  {
+    "appid": 1427890,
+    "name": "Blaston",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1427890.zip"
+  },
+  {
+    "appid": 1428770,
+    "name": "Kingdom Gun",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1428770.zip"
+  },
+  {
+    "appid": 1432860,
+    "name": "Sun Haven",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1432860.zip"
+  },
+  {
+    "appid": 1433140,
+    "name": "The Texas Chain Saw Massacre",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1433140.zip"
+  },
+  {
+    "appid": 1437400,
+    "name": "Salt and Sacrifice",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1437400.zip"
+  },
+  {
+    "appid": 1439750,
+    "name": "9-Bit Armies: A Bit Too Far",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1439750.zip"
+  },
+  {
+    "appid": 1442430,
+    "name": "Storage Hunter",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1442430.zip"
+  },
+  {
+    "appid": 1445790,
+    "name": "Make Way",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1445790.zip"
+  },
+  {
+    "appid": 1446160,
+    "name": "Toy Soldiers HD ",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1446160.zip"
+  },
+  {
+    "appid": 1450180,
+    "name": "Haunt Chaser",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1450180.zip"
+  },
+  {
+    "appid": 1451480,
+    "name": "The Greatest Penguin Heist of All Time",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1451480.zip"
+  },
+  {
+    "appid": 1455120,
+    "name": "Pumping Simulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1455120.zip"
+  },
+  {
+    "appid": 1455630,
+    "name": "THE GAME OF LIFE 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1455630.zip"
+  },
+  {
+    "appid": 1457320,
+    "name": "Techtonica",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1457320.zip"
+  },
+  {
+    "appid": 1457580,
+    "name": "Speed 3: Grand Prix",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1457580.zip"
+  },
+  {
+    "appid": 1465070,
+    "name": "Legendary Tales",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1465070.zip"
+  },
+  {
+    "appid": 1472930,
+    "name": "Flock",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1472930.zip"
+  },
+  {
+    "appid": 1480030,
+    "name": "A Way To Be Dead",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1480030.zip"
+  },
+  {
+    "appid": 1481170,
+    "name": "ZEPHON",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1481170.zip"
+  },
+  {
+    "appid": 1484180,
+    "name": "Goons: Legends & Mayhem",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1484180.zip"
+  },
+  {
+    "appid": 1484280,
+    "name": "Demeo",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1484280.zip"
+  },
+  {
+    "appid": 1488430,
+    "name": "Fueled Up",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1488430.zip"
+  },
+  {
+    "appid": 1489630,
+    "name": "Carrier Command 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1489630.zip"
+  },
+  {
+    "appid": 1494420,
+    "name": "Silica",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1494420.zip"
+  },
+  {
+    "appid": 1496790,
+    "name": "Gotham Knights",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1496790.zip"
+  },
+  {
+    "appid": 1497950,
+    "name": "EARTH DEFENSE FORCE: WORLD BROTHERS",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1497950.zip"
+  },
+  {
+    "appid": 1498130,
+    "name": "Tank Squad",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1498130.zip"
+  },
+  {
+    "appid": 1501750,
+    "name": "Lords of the Fallen",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1501750.zip"
+  },
+  {
+    "appid": 1502560,
+    "name": "The Smurfs - Mission Vileaf",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1502560.zip"
+  },
+  {
+    "appid": 1506620,
+    "name": "Horror Squad",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1506620.zip"
+  },
+  {
+    "appid": 1520380,
+    "name": "HALF DEAD 3",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1520380.zip"
+  },
+  {
+    "appid": 1521580,
+    "name": "Perfect Heist 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1521580.zip"
+  },
+  {
+    "appid": 1522080,
+    "name": "Jitsu Squad",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1522080.zip"
+  },
+  {
+    "appid": 1527950,
+    "name": "Wartales",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1527950.zip"
+  },
+  {
+    "appid": 1532200,
+    "name": "Mars First Logistics",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1532200.zip"
+  },
+  {
+    "appid": 1538970,
+    "name": "Hammerwatch II",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1538970.zip"
+  },
+  {
+    "appid": 1540210,
+    "name": "Arizona Sunshine® 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1540210.zip"
+  },
+  {
+    "appid": 1547670,
+    "name": "A Day Out",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1547670.zip"
+  },
+  {
+    "appid": 1549970,
+    "name": "Aliens: Fireteam Elite",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1549970.zip"
+  },
+  {
+    "appid": 1550030,
+    "name": "Problem Here",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1550030.zip"
+  },
+  {
+    "appid": 1551360,
+    "name": "Forza Horizon 5",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1551360.zip"
+  },
+  {
+    "appid": 1555150,
+    "name": "Pocket Bravery",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1555150.zip"
+  },
+  {
+    "appid": 1557740,
+    "name": "ROUNDS",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1557740.zip"
+  },
+  {
+    "appid": 1558830,
+    "name": "RIPOUT",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1558830.zip"
+  },
+  {
+    "appid": 1562420,
+    "name": "FOREWARNED",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1562420.zip"
+  },
+  {
+    "appid": 1564600,
+    "name": "The Last Plague: Blight",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1564600.zip"
+  },
+  {
+    "appid": 1566690,
+    "name": "Outpost: Infinity Siege",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1566690.zip"
+  },
+  {
+    "appid": 1567020,
+    "name": "The Dark Pictures Anthology: The Devil in Me",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1567020.zip"
+  },
+  {
+    "appid": 1567520,
+    "name": "Blackwind",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1567520.zip"
+  },
+  {
+    "appid": 1571440,
+    "name": "Lunch Lady",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1571440.zip"
+  },
+  {
+    "appid": 1574900,
+    "name": "Salt 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1574900.zip"
+  },
+  {
+    "appid": 1575830,
+    "name": "ArcRunner",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1575830.zip"
+  },
+  {
+    "appid": 1575870,
+    "name": "UpGun",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1575870.zip"
+  },
+  {
+    "appid": 1575940,
+    "name": "Sins of a Solar Empire II",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1575940.zip"
+  },
+  {
+    "appid": 1577120,
+    "name": "The Quarry",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1577120.zip"
+  },
+  {
+    "appid": 1578390,
+    "name": "My Garage",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1578390.zip"
+  },
+  {
+    "appid": 1584190,
+    "name": "Hungry Dino",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1584190.zip"
+  },
+  {
+    "appid": 1584690,
+    "name": "TrinityS",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1584690.zip"
+  },
+  {
+    "appid": 1592110,
+    "name": "Spirit Of The Island",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1592110.zip"
+  },
+  {
+    "appid": 1592190,
+    "name": "BONELAB",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1592190.zip"
+  },
+  {
+    "appid": 1592290,
+    "name": "PARANOIA PLACE",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1592290.zip"
+  },
+  {
+    "appid": 1595710,
+    "name": "Chased by Darkness",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1595710.zip"
+  },
+  {
+    "appid": 1603180,
+    "name": "Mining Mechs",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1603180.zip"
+  },
+  {
+    "appid": 1604030,
+    "name": "V Rising",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1604030.zip"
+  },
+  {
+    "appid": 1608700,
+    "name": "Soundfall",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1608700.zip"
+  },
+  {
+    "appid": 1609370,
+    "name": "Caravanners",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1609370.zip"
+  },
+  {
+    "appid": 1611290,
+    "name": "Puzzle Compound",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1611290.zip"
+  },
+  {
+    "appid": 1616110,
+    "name": "Glitch Busters",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1616110.zip"
+  },
+  {
+    "appid": 1618540,
+    "name": "Ghost Exorcism INC",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1618540.zip"
+  },
+  {
+    "appid": 1619310,
+    "name": "SWAT Commander",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1619310.zip"
+  },
+  {
+    "appid": 1620030,
+    "name": "Avatar: The Last Airbender - Quest for Balance",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1620030.zip"
+  },
+  {
+    "appid": 1621070,
+    "name": "DeadPoly",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1621070.zip"
+  },
+  {
+    "appid": 1621690,
+    "name": "Core Keeper",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1621690.zip"
+  },
+  {
+    "appid": 1622900,
+    "name": "Star Trek: Infinite",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1622900.zip"
+  },
+  {
+    "appid": 1624060,
+    "name": "Space for Sale",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1624060.zip"
+  },
+  {
+    "appid": 1635450,
+    "name": "Longvinter",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1635450.zip"
+  },
+  {
+    "appid": 1641700,
+    "name": "Moving Out 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1641700.zip"
+  },
+  {
+    "appid": 1641960,
+    "name": "Forever Skies",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1641960.zip"
+  },
+  {
+    "appid": 1649240,
+    "name": "Returnal™",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1649240.zip"
+  },
+  {
+    "appid": 1656930,
+    "name": "Coridden",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1656930.zip"
+  },
+  {
+    "appid": 1657630,
+    "name": "Slime Rancher 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1657630.zip"
+  },
+  {
+    "appid": 1659600,
+    "name": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1659600.zip"
+  },
+  {
+    "appid": 1661630,
+    "name": "KarmaZoo",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1661630.zip"
+  },
+  {
+    "appid": 1662570,
+    "name": "Rescue Party: Live!",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1662570.zip"
+  },
+  {
+    "appid": 1665190,
+    "name": "Monster Prom 3: Monster Roadtrip",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1665190.zip"
+  },
+  {
+    "appid": 1669000,
+    "name": "Age of Wonders 4",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1669000.zip"
+  },
+  {
+    "appid": 1669480,
+    "name": "Firefighting Simulator: Ignite",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1669480.zip"
+  },
+  {
+    "appid": 1672500,
+    "name": "GUNDAM BREAKER 4",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1672500.zip"
+  },
+  {
+    "appid": 1672970,
+    "name": "Minecraft Dungeons",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1672970.zip"
+  },
+  {
+    "appid": 1676840,
+    "name": "For The King II",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1676840.zip"
+  },
+  {
+    "appid": 1677110,
+    "name": "Lightyear Frontier",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1677110.zip"
+  },
+  {
+    "appid": 1677970,
+    "name": "Railroad Corporation 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1677970.zip"
+  },
+  {
+    "appid": 1679220,
+    "name": "Portal Dungeon",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1679220.zip"
+  },
+  {
+    "appid": 1682050,
+    "name": "PropHunter",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1682050.zip"
+  },
+  {
+    "appid": 1683150,
+    "name": "Railroader",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1683150.zip"
+  },
+  {
+    "appid": 1686940,
+    "name": "Bopl Battle",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1686940.zip"
+  },
+  {
+    "appid": 1689500,
+    "name": "Dune: Imperium",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1689500.zip"
+  },
+  {
+    "appid": 1691320,
+    "name": "Hellbreach: Vegas",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1691320.zip"
+  },
+  {
+    "appid": 1695840,
+    "name": "Fear Therapy",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1695840.zip"
+  },
+  {
+    "appid": 1699480,
+    "name": "KLETKA",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1699480.zip"
+  },
+  {
+    "appid": 1702010,
+    "name": "Sengoku Dynasty",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1702010.zip"
+  },
+  {
+    "appid": 1707650,
+    "name": "Swords and Sandals Immortals",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1707650.zip"
+  },
+  {
+    "appid": 1708850,
+    "name": "Drug Dealer Simulator 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1708850.zip"
+  },
+  {
+    "appid": 1710580,
+    "name": "MotoGP™22",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1710580.zip"
+  },
+  {
+    "appid": 1714900,
+    "name": "First Dwarf",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1714900.zip"
+  },
+  {
+    "appid": 1715280,
+    "name": "AirportSim",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1715280.zip"
+  },
+  {
+    "appid": 1715730,
+    "name": "Boo Men",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1715730.zip"
+  },
+  {
+    "appid": 1722840,
+    "name": "Everdell",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1722840.zip"
+  },
+  {
+    "appid": 1722860,
+    "name": "Munchkin Digital",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1722860.zip"
+  },
+  {
+    "appid": 1723780,
+    "name": "Finnish Cottage Simulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1723780.zip"
+  },
+  {
+    "appid": 1731460,
+    "name": "LEGO® Brawls",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1731460.zip"
+  },
+  {
+    "appid": 1732420,
+    "name": "Spanky!",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1732420.zip"
+  },
+  {
+    "appid": 1738610,
+    "name": "First Class Escape: The Train of Thought",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1738610.zip"
+  },
+  {
+    "appid": 1755580,
+    "name": "The Jackbox Party Starter",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1755580.zip"
+  },
+  {
+    "appid": 1757300,
+    "name": "Jump Space",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1757300.zip"
+  },
+  {
+    "appid": 1763250,
+    "name": "SWORN",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1763250.zip"
+  },
+  {
+    "appid": 1765300,
+    "name": "Ultimate Zombie Defense 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1765300.zip"
+  },
+  {
+    "appid": 1766060,
+    "name": "HumanitZ",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1766060.zip"
+  },
+  {
+    "appid": 1766100,
+    "name": "The Last Hero of Nostalgaia",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1766100.zip"
+  },
+  {
+    "appid": 1771180,
+    "name": "No Fair Play",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1771180.zip"
+  },
+  {
+    "appid": 1774770,
+    "name": "Phantom Hysteria",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1774770.zip"
+  },
+  {
+    "appid": 1790360,
+    "name": "Heist Kitty: Multiplayer Cat Simulator Game",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1790360.zip"
+  },
+  {
+    "appid": 1791910,
+    "name": "Silent Rain",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1791910.zip"
+  },
+  {
+    "appid": 1792250,
+    "name": "Serious Sam: Siberian Mayhem",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1792250.zip"
+  },
+  {
+    "appid": 1794830,
+    "name": "Macabre",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1794830.zip"
+  },
+  {
+    "appid": 1796470,
+    "name": "Haste",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1796470.zip"
+  },
+  {
+    "appid": 1799930,
+    "name": "Redout 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1799930.zip"
+  },
+  {
+    "appid": 1801520,
+    "name": "Zombieville USA 3D",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1801520.zip"
+  },
+  {
+    "appid": 1804470,
+    "name": "Duel Corp.",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1804470.zip"
+  },
+  {
+    "appid": 1807080,
+    "name": "Ghost Exile",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1807080.zip"
+  },
+  {
+    "appid": 1812090,
+    "name": "Escape Academy",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1812090.zip"
+  },
+  {
+    "appid": 1812450,
+    "name": "Bellwright",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1812450.zip"
+  },
+  {
+    "appid": 1812560,
+    "name": "SUPER CRAZY RHYTHM CASTLE",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1812560.zip"
+  },
+  {
+    "appid": 1813130,
+    "name": "Sugar Shack",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1813130.zip"
+  },
+  {
+    "appid": 1815260,
+    "name": "CHESS CROWN",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1815260.zip"
+  },
+  {
+    "appid": 1815530,
+    "name": "Dungeon Defenders: Going Rogue",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1815530.zip"
+  },
+  {
+    "appid": 1817800,
+    "name": "Oddsparks: An Automation Adventure",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1817800.zip"
+  },
+  {
+    "appid": 1818180,
+    "name": "The RPG Engine",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1818180.zip"
+  },
+  {
+    "appid": 1818280,
+    "name": "Kallax",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1818280.zip"
+  },
+  {
+    "appid": 1824220,
+    "name": "Chivalry 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1824220.zip"
+  },
+  {
+    "appid": 1826570,
+    "name": "First Class Escape 2: Head in the Clouds",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1826570.zip"
+  },
+  {
+    "appid": 1830630,
+    "name": "Overpass 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1830630.zip"
+  },
+  {
+    "appid": 1833200,
+    "name": "DuneCrawl",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1833200.zip"
+  },
+  {
+    "appid": 1836730,
+    "name": "Echo Point Nova",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1836730.zip"
+  },
+  {
+    "appid": 1839880,
+    "name": "King Of The Castle",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1839880.zip"
+  },
+  {
+    "appid": 1839950,
+    "name": "Terminator: Dark Fate - Defiance",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1839950.zip"
+  },
+  {
+    "appid": 1843310,
+    "name": "FUNKO FUSION",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1843310.zip"
+  },
+  {
+    "appid": 1843710,
+    "name": "PURGE - Three vs Blood",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1843710.zip"
+  },
+  {
+    "appid": 1850960,
+    "name": "The Jackbox Party Pack 9",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1850960.zip"
+  },
+  {
+    "appid": 1855580,
+    "name": "DreadHaunt",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1855580.zip"
+  },
+  {
+    "appid": 1856190,
+    "name": "Hello Engineer: Scrap Machines Constructor",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1856190.zip"
+  },
+  {
+    "appid": 1858650,
+    "name": "In Sink",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1858650.zip"
+  },
+  {
+    "appid": 1861630,
+    "name": "Junk Survivor",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1861630.zip"
+  },
+  {
+    "appid": 1866320,
+    "name": "Baladins",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1866320.zip"
+  },
+  {
+    "appid": 1866470,
+    "name": "Guns N Stuff 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1866470.zip"
+  },
+  {
+    "appid": 1866980,
+    "name": "Worlds of Aria",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1866980.zip"
+  },
+  {
+    "appid": 1869500,
+    "name": "DAIMON BLADES",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1869500.zip"
+  },
+  {
+    "appid": 1874170,
+    "name": "Shredders",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1874170.zip"
+  },
+  {
+    "appid": 1877020,
+    "name": "Jujutsu Kaisen Cursed Clash",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1877020.zip"
+  },
+  {
+    "appid": 1886070,
+    "name": "USAC: Code Breach",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1886070.zip"
+  },
+  {
+    "appid": 1888160,
+    "name": "ARMORED CORE™ VI FIRES OF RUBICON™",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1888160.zip"
+  },
+  {
+    "appid": 1889640,
+    "name": "The Backrooms: Survival",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1889640.zip"
+  },
+  {
+    "appid": 1892140,
+    "name": "Cryptid Farm",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1892140.zip"
+  },
+  {
+    "appid": 1893810,
+    "name": "Solium Infernum",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1893810.zip"
+  },
+  {
+    "appid": 1903560,
+    "name": "Atomic Picnic",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1903560.zip"
+  },
+  {
+    "appid": 1904480,
+    "name": "Absolum",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1904480.zip"
+  },
+  {
+    "appid": 1911610,
+    "name": "Windblown",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1911610.zip"
+  },
+  {
+    "appid": 1913370,
+    "name": "OPERATOR",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1913370.zip"
+  },
+  {
+    "appid": 1916310,
+    "name": "Remnant Records",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1916310.zip"
+  },
+  {
+    "appid": 1920480,
+    "name": "River City Girls 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1920480.zip"
+  },
+  {
+    "appid": 1929610,
+    "name": "Demonologist",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1929610.zip"
+  },
+  {
+    "appid": 1931180,
+    "name": "Lost Skies",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1931180.zip"
+  },
+  {
+    "appid": 1931950,
+    "name": "Vade Retro : Exorcist",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1931950.zip"
+  },
+  {
+    "appid": 1947070,
+    "name": "Broken Edge",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1947070.zip"
+  },
+  {
+    "appid": 1949850,
+    "name": "Collapsed",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1949850.zip"
+  },
+  {
+    "appid": 1951780,
+    "name": "Jumping Jazz Cats",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1951780.zip"
+  },
+  {
+    "appid": 1959140,
+    "name": "Diesel Legacy: The Brazen Age",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1959140.zip"
+  },
+  {
+    "appid": 1963370,
+    "name": "No One Survived",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1963370.zip"
+  },
+  {
+    "appid": 1981820,
+    "name": "Strike Force Heroes",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1981820.zip"
+  },
+  {
+    "appid": 1982340,
+    "name": "Blanc",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1982340.zip"
+  },
+  {
+    "appid": 1985420,
+    "name": "This is a Ghost",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1985420.zip"
+  },
+  {
+    "appid": 1987080,
+    "name": "Inside the Backrooms",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/1987080.zip"
+  },
+  {
+    "appid": 2001120,
+    "name": "Split Fiction",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2001120.zip"
+  },
+  {
+    "appid": 2009350,
+    "name": "Out of Ore",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2009350.zip"
+  },
+  {
+    "appid": 2009460,
+    "name": "War of Wizards",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2009460.zip"
+  },
+  {
+    "appid": 2012320,
+    "name": "Parallel Experiment",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2012320.zip"
+  },
+  {
+    "appid": 2051120,
+    "name": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2051120.zip"
+  },
+  {
+    "appid": 2061620,
+    "name": "Mechanic Heroes",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2061620.zip"
+  },
+  {
+    "appid": 2064870,
+    "name": "Deceit 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2064870.zip"
+  },
+  {
+    "appid": 2069040,
+    "name": "Unboxing the Cryptic Killer",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2069040.zip"
+  },
+  {
+    "appid": 2070270,
+    "name": "Cloudheim",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2070270.zip"
+  },
+  {
+    "appid": 2076010,
+    "name": "UNDER NIGHT IN-BIRTH II Sys:Celes",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2076010.zip"
+  },
+  {
+    "appid": 2080690,
+    "name": "Sunkenland",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2080690.zip"
+  },
+  {
+    "appid": 2088650,
+    "name": "Mist Slayer",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2088650.zip"
+  },
+  {
+    "appid": 2094600,
+    "name": "Nowhere: Mysterious Artifacts",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2094600.zip"
+  },
+  {
+    "appid": 2106670,
+    "name": "Gatekeeper",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2106670.zip"
+  },
+  {
+    "appid": 2107090,
+    "name": "KitHack Model Club",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2107090.zip"
+  },
+  {
+    "appid": 2113900,
+    "name": "Touge Shakai",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2113900.zip"
+  },
+  {
+    "appid": 2116120,
+    "name": "Incursion Red River",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2116120.zip"
+  },
+  {
+    "appid": 2116260,
+    "name": "Relic Dudes",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2116260.zip"
+  },
+  {
+    "appid": 2119590,
+    "name": "Deducto 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2119590.zip"
+  },
+  {
+    "appid": 2119830,
+    "name": "MISERY",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2119830.zip"
+  },
+  {
+    "appid": 2139020,
+    "name": "What the Fog",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2139020.zip"
+  },
+  {
+    "appid": 2141730,
+    "name": "Backrooms: Escape Together",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2141730.zip"
+  },
+  {
+    "appid": 2153780,
+    "name": "Survival Nation",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2153780.zip"
+  },
+  {
+    "appid": 2155180,
+    "name": "Pioneers of Pagonia",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2155180.zip"
+  },
+  {
+    "appid": 2165470,
+    "name": "Taora",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2165470.zip"
+  },
+  {
+    "appid": 2168680,
+    "name": "Nuclear Option",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2168680.zip"
+  },
+  {
+    "appid": 2174420,
+    "name": "Lucky Goal",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2174420.zip"
+  },
+  {
+    "appid": 2186700,
+    "name": "Contain",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2186700.zip"
+  },
+  {
+    "appid": 2187740,
+    "name": "Peek a Boo",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2187740.zip"
+  },
+  {
+    "appid": 2189670,
+    "name": "The Black Pool",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2189670.zip"
+  },
+  {
+    "appid": 2192060,
+    "name": "NASCAR Arcade Rush",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2192060.zip"
+  },
+  {
+    "appid": 2192900,
+    "name": "Knock'Em Out",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2192900.zip"
+  },
+  {
+    "appid": 2195410,
+    "name": "Songs of Silence",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2195410.zip"
+  },
+  {
+    "appid": 2201940,
+    "name": "Ship Graveyard Simulator 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2201940.zip"
+  },
+  {
+    "appid": 2204350,
+    "name": "Midnight Heist",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2204350.zip"
+  },
+  {
+    "appid": 2211170,
+    "name": "Unrailed 2: Back on Track",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2211170.zip"
+  },
+  {
+    "appid": 2212330,
+    "name": "Your Only Move Is HUSTLE",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2212330.zip"
+  },
+  {
+    "appid": 2215430,
+    "name": "Ghost of Tsushima DIRECTOR'S CUT",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2215430.zip"
+  },
+  {
+    "appid": 2216830,
+    "name": "The Jackbox Party Pack 10",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/2216830.zip"
+  },
+  {
+    "appid": 2217000,
+    "name": "Rivals of Aether II",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2217000.zip"
+  },
+  {
+    "appid": 2248760,
+    "name": "Car For Sale Simulator 2023",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2248760.zip"
+  },
+  {
+    "appid": 2262080,
+    "name": "Omega Crafter",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2262080.zip"
+  },
+  {
+    "appid": 2263920,
+    "name": "Multiplayer Platform Golf",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2263920.zip"
+  },
+  {
+    "appid": 2272540,
+    "name": "FBC: Firebreak",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2272540.zip"
+  },
+  {
+    "appid": 2275020,
+    "name": "Backrooms Rec.",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2275020.zip"
+  },
+  {
+    "appid": 2285150,
+    "name": "The Front",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2285150.zip"
+  },
+  {
+    "appid": 2287330,
+    "name": "Empire of the Ants",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2287330.zip"
+  },
+  {
+    "appid": 2290000,
+    "name": "TerraScape",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2290000.zip"
+  },
+  {
+    "appid": 2291060,
+    "name": "EARTH DEFENSE FORCE 6",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2291060.zip"
+  },
+  {
+    "appid": 2307350,
+    "name": "Into the Radius 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2307350.zip"
+  },
+  {
+    "appid": 2309400,
+    "name": "The Devourer: Hunted Souls",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2309400.zip"
+  },
+  {
+    "appid": 2313330,
+    "name": "TerraTech Worlds",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2313330.zip"
+  },
+  {
+    "appid": 2328310,
+    "name": "CUSTOM MECH WARS",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2328310.zip"
+  },
+  {
+    "appid": 2331130,
+    "name": "Just Another Night Shift",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2331130.zip"
+  },
+  {
+    "appid": 2347080,
+    "name": "Frosthaven",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2347080.zip"
+  },
+  {
+    "appid": 2351560,
+    "name": "Apocalypse Party",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2351560.zip"
+  },
+  {
+    "appid": 2354000,
+    "name": "Slackers - Carts of Glory",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2354000.zip"
+  },
+  {
+    "appid": 2355860,
+    "name": "Eggstraction",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2355860.zip"
+  },
+  {
+    "appid": 2357000,
+    "name": "KILL IT WITH FIRE! 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2357000.zip"
+  },
+  {
+    "appid": 2367480,
+    "name": "Speed Crew",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2367480.zip"
+  },
+  {
+    "appid": 2370170,
+    "name": "EARTH DEFENSE FORCE: WORLD BROTHERS 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2370170.zip"
+  },
+  {
+    "appid": 2390260,
+    "name": "Topple Tactics",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2390260.zip"
+  },
+  {
+    "appid": 2406180,
+    "name": "Knights Within",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2406180.zip"
+  },
+  {
+    "appid": 2406770,
+    "name": "Bodycam",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2406770.zip"
+  },
+  {
+    "appid": 2408630,
+    "name": "Journey",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2408630.zip"
+  },
+  {
+    "appid": 2427700,
+    "name": "Backpack Battles",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2427700.zip"
+  },
+  {
+    "appid": 2428810,
+    "name": "LEGO® Horizon Adventures™",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2428810.zip"
+  },
+  {
+    "appid": 2436940,
+    "name": "Sephiria",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2436940.zip"
+  },
+  {
+    "appid": 2437670,
+    "name": "Dagger Directive",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2437670.zip"
+  },
+  {
+    "appid": 2445690,
+    "name": "Lost Castle 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2445690.zip"
+  },
+  {
+    "appid": 2450450,
+    "name": "MEGATON MUSASHI W: WIRED",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2450450.zip"
+  },
+  {
+    "appid": 2475010,
+    "name": "Pizza Bandit",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2475010.zip"
+  },
+  {
+    "appid": 2477090,
+    "name": "Mosa Lina",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2477090.zip"
+  },
+  {
+    "appid": 2492040,
+    "name": "FATAL FURY: City of the Wolves",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2492040.zip"
+  },
+  {
+    "appid": 2500750,
+    "name": "Only Climb: Better Together",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2500750.zip"
+  },
+  {
+    "appid": 2504090,
+    "name": "Heroes of Valor",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2504090.zip"
+  },
+  {
+    "appid": 2510960,
+    "name": "Temtem: Swarm",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2510960.zip"
+  },
+  {
+    "appid": 2512930,
+    "name": "Guardians of the Sanctree",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2512930.zip"
+  },
+  {
+    "appid": 2523720,
+    "name": "Gears of War: Reloaded",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2523720.zip"
+  },
+  {
+    "appid": 2524930,
+    "name": "We Escaped a Twisted Game",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2524930.zip"
+  },
+  {
+    "appid": 2543180,
+    "name": "POPUCOM",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2543180.zip"
+  },
+  {
+    "appid": 2543510,
+    "name": "GUNTOUCHABLES",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2543510.zip"
+  },
+  {
+    "appid": 2546690,
+    "name": "Tram Simulator Urban Transit",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2546690.zip"
+  },
+  {
+    "appid": 2560240,
+    "name": "Biped 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2560240.zip"
+  },
+  {
+    "appid": 2566340,
+    "name": "Gedonia 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2566340.zip"
+  },
+  {
+    "appid": 2567870,
+    "name": "Chained Together",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2567870.zip"
+  },
+  {
+    "appid": 2592220,
+    "name": "CUFFBUST",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2592220.zip"
+  },
+  {
+    "appid": 2607220,
+    "name": "CAST!",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2607220.zip"
+  },
+  {
+    "appid": 2617700,
+    "name": "Tinkerlands",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2617700.zip"
+  },
+  {
+    "appid": 2620240,
+    "name": "Spectral Scream",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2620240.zip"
+  },
+  {
+    "appid": 2622380,
+    "name": "ELDEN RING NIGHTREIGN",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2622380.zip"
+  },
+  {
+    "appid": 2624080,
+    "name": "MycoRelic",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2624080.zip"
+  },
+  {
+    "appid": 2625420,
+    "name": "Drive Beyond Horizons",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2625420.zip"
+  },
+  {
+    "appid": 2627570,
+    "name": "Goofy Gorillas",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2627570.zip"
+  },
+  {
+    "appid": 2644050,
+    "name": "Echoes of Elysium",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2644050.zip"
+  },
+  {
+    "appid": 2644470,
+    "name": "PICO PARK 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2644470.zip"
+  },
+  {
+    "appid": 2646460,
+    "name": "Soulmask",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2646460.zip"
+  },
+  {
+    "appid": 2647680,
+    "name": "ICBM: Escalation",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2647680.zip"
+  },
+  {
+    "appid": 2658510,
+    "name": "Animal Shelter 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2658510.zip"
+  },
+  {
+    "appid": 2661300,
+    "name": "Grounded 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2661300.zip"
+  },
+  {
+    "appid": 2670630,
+    "name": "Supermarket Simulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2670630.zip"
+  },
+  {
+    "appid": 2686580,
+    "name": "Trinity Survivors",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2686580.zip"
+  },
+  {
+    "appid": 2686630,
+    "name": "Voyagers of Nera",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2686630.zip"
+  },
+  {
+    "appid": 2687400,
+    "name": "GODBREAKERS",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2687400.zip"
+  },
+  {
+    "appid": 2689120,
+    "name": "Gladio Mori",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2689120.zip"
+  },
+  {
+    "appid": 2695940,
+    "name": "PANICORE",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2695940.zip"
+  },
+  {
+    "appid": 2698780,
+    "name": "ContractVille",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2698780.zip"
+  },
+  {
+    "appid": 2707940,
+    "name": "FPV Kamikaze Drone",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2707940.zip"
+  },
+  {
+    "appid": 2708450,
+    "name": "Oh Deer",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2708450.zip"
+  },
+  {
+    "appid": 2719200,
+    "name": "SAMURAI WARRIORS 4 DX",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2719200.zip"
+  },
+  {
+    "appid": 2722360,
+    "name": "Escape Memoirs: Safe House",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2722360.zip"
+  },
+  {
+    "appid": 2725200,
+    "name": "Prisoners",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2725200.zip"
+  },
+  {
+    "appid": 2737070,
+    "name": "Crime Simulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2737070.zip"
+  },
+  {
+    "appid": 2743460,
+    "name": "Granvir",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2743460.zip"
+  },
+  {
+    "appid": 2747330,
+    "name": "Species: Unknown",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2747330.zip"
+  },
+  {
+    "appid": 2748340,
+    "name": "Goblin Cleanup",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2748340.zip"
+  },
+  {
+    "appid": 2749770,
+    "name": "Galaxy Burger",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2749770.zip"
+  },
+  {
+    "appid": 2753970,
+    "name": "MARVEL Cosmic Invasion",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2753970.zip"
+  },
+  {
+    "appid": 2757810,
+    "name": "The Jump Guys",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2757810.zip"
+  },
+  {
+    "appid": 2768430,
+    "name": "ATLYSS",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2768430.zip"
+  },
+  {
+    "appid": 2777220,
+    "name": "Human Fall Flat VR",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2777220.zip"
+  },
+  {
+    "appid": 2780470,
+    "name": "Bunker Invaders",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2780470.zip"
+  },
+  {
+    "appid": 2786550,
+    "name": "CURE - A Hospital Simulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2786550.zip"
+  },
+  {
+    "appid": 2787320,
+    "name": "Revenge of the Savage Planet",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2787320.zip"
+  },
+  {
+    "appid": 2788040,
+    "name": "Another Try 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2788040.zip"
+  },
+  {
+    "appid": 2790330,
+    "name": "Blood Typers",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2790330.zip"
+  },
+  {
+    "appid": 2790700,
+    "name": "SWAPMEAT",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2790700.zip"
+  },
+  {
+    "appid": 2793380,
+    "name": "Starground",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2793380.zip"
+  },
+  {
+    "appid": 2794590,
+    "name": "Scam Line",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2794590.zip"
+  },
+  {
+    "appid": 2796180,
+    "name": "SILENT BREATH",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2796180.zip"
+  },
+  {
+    "appid": 2800450,
+    "name": "Planetaries",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2800450.zip"
+  },
+  {
+    "appid": 2802820,
+    "name": "School 666",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2802820.zip"
+  },
+  {
+    "appid": 2810780,
+    "name": "Forsaken Frontiers",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2810780.zip"
+  },
+  {
+    "appid": 2818510,
+    "name": "Observe and Report",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2818510.zip"
+  },
+  {
+    "appid": 2828860,
+    "name": "The Forever Winter",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2828860.zip"
+  },
+  {
+    "appid": 2835530,
+    "name": "Backrooms: Extractions",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2835530.zip"
+  },
+  {
+    "appid": 2840210,
+    "name": "Bureau of Contacts",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2840210.zip"
+  },
+  {
+    "appid": 2841770,
+    "name": "Phantom Squad",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2841770.zip"
+  },
+  {
+    "appid": 2846060,
+    "name": "Subterror",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2846060.zip"
+  },
+  {
+    "appid": 2868070,
+    "name": "Descending The Woods",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2868070.zip"
+  },
+  {
+    "appid": 2870920,
+    "name": "Restaurats",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2870920.zip"
+  },
+  {
+    "appid": 2878420,
+    "name": "Old Market Simulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2878420.zip"
+  },
+  {
+    "appid": 2879840,
+    "name": "Escape Simulator 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2879840.zip"
+  },
+  {
+    "appid": 2897700,
+    "name": "Arizona Sunshine® Remake",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2897700.zip"
+  },
+  {
+    "appid": 2903710,
+    "name": "Lost Lullabies: The Orphanage Chronicles",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2903710.zip"
+  },
+  {
+    "appid": 2909110,
+    "name": "Nuclear Nightmare",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2909110.zip"
+  },
+  {
+    "appid": 2916430,
+    "name": "Fast Food Simulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2916430.zip"
+  },
+  {
+    "appid": 2923350,
+    "name": "Ultimate Sheep Raccoon",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2923350.zip"
+  },
+  {
+    "appid": 2924860,
+    "name": "Astrumis - Survive Together",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2924860.zip"
+  },
+  {
+    "appid": 2936190,
+    "name": "Tropical Resort Simulator (Paradise Beach Simulator)",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2936190.zip"
+  },
+  {
+    "appid": 2939600,
+    "name": "Tower Networking Inc.",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2939600.zip"
+  },
+  {
+    "appid": 2939640,
+    "name": "Broventure: The Wild Co-op",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2939640.zip"
+  },
+  {
+    "appid": 2943670,
+    "name": "Night Club Simulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2943670.zip"
+  },
+  {
+    "appid": 2948640,
+    "name": "The Jackbox Survey Scramble",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2948640.zip"
+  },
+  {
+    "appid": 2949320,
+    "name": "Ratatan",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2949320.zip"
+  },
+  {
+    "appid": 2956680,
+    "name": "LORT",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2956680.zip"
+  },
+  {
+    "appid": 2968420,
+    "name": "PowerWash Simulator 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2968420.zip"
+  },
+  {
+    "appid": 2973830,
+    "name": "Prison Boss Prohibition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2973830.zip"
+  },
+  {
+    "appid": 2976900,
+    "name": "Unpossess",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2976900.zip"
+  },
+  {
+    "appid": 2977620,
+    "name": "Squirreled Away",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2977620.zip"
+  },
+  {
+    "appid": 2993780,
+    "name": "FANTASY LIFE i: The Girl Who Steals Time",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2993780.zip"
+  },
+  {
+    "appid": 2999090,
+    "name": "Survivor World",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/2999090.zip"
+  },
+  {
+    "appid": 3003460,
+    "name": "Bang Bang Barrage",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3003460.zip"
+  },
+  {
+    "appid": 3004100,
+    "name": "FREEDOM WARS Remastered",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3004100.zip"
+  },
+  {
+    "appid": 3004140,
+    "name": "LockYourDoor",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3004140.zip"
+  },
+  {
+    "appid": 3008130,
+    "name": "Dying Light: The Beast",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3008130.zip"
+  },
+  {
+    "appid": 3010460,
+    "name": "Backroom Company",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3010460.zip"
+  },
+  {
+    "appid": 3012220,
+    "name": "Double Dragon Revive",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3012220.zip"
+  },
+  {
+    "appid": 3025290,
+    "name": "UNDERWARD",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3025290.zip"
+  },
+  {
+    "appid": 3044440,
+    "name": "Gas Station Manager",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3044440.zip"
+  },
+  {
+    "appid": 3060170,
+    "name": "Chained in the Backrooms",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3060170.zip"
+  },
+  {
+    "appid": 3070520,
+    "name": "Granny: Escape Together",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3070520.zip"
+  },
+  {
+    "appid": 3075800,
+    "name": "Subterranauts",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3075800.zip"
+  },
+  {
+    "appid": 3088440,
+    "name": "Behind The Backrooms",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3088440.zip"
+  },
+  {
+    "appid": 3099490,
+    "name": "Haven",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3099490.zip"
+  },
+  {
+    "appid": 3107800,
+    "name": "LIZARDS MUST DIE 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3107800.zip"
+  },
+  {
+    "appid": 3108510,
+    "name": "FlyKnight",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3108510.zip"
+  },
+  {
+    "appid": 3111080,
+    "name": "Secret Agent Wizard Boy and the International Crime Syndicate",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3111080.zip"
+  },
+  {
+    "appid": 3121110,
+    "name": "Zort",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3121110.zip"
+  },
+  {
+    "appid": 3125250,
+    "name": "STORROR Parkour Pro",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3125250.zip"
+  },
+  {
+    "appid": 3139570,
+    "name": "Co-op Kaiju Horror Cooking",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3139570.zip"
+  },
+  {
+    "appid": 3140990,
+    "name": "Backrooms Cleanup Crew",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3140990.zip"
+  },
+  {
+    "appid": 3146520,
+    "name": "WEBFISHING",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3146520.zip"
+  },
+  {
+    "appid": 3156640,
+    "name": "Split Brain",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3156640.zip"
+  },
+  {
+    "appid": 3164500,
+    "name": "Schedule I",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3164500.zip"
+  },
+  {
+    "appid": 3169520,
+    "name": "Warhammer 40,000: Space Marine - Master Crafted Edition",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3169520.zip"
+  },
+  {
+    "appid": 3172770,
+    "name": "Terrorbytes",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3172770.zip"
+  },
+  {
+    "appid": 3201910,
+    "name": "RailGods of Hysterra",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3201910.zip"
+  },
+  {
+    "appid": 3207670,
+    "name": "Road Food Simulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3207670.zip"
+  },
+  {
+    "appid": 3213600,
+    "name": "Store Wars",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3213600.zip"
+  },
+  {
+    "appid": 3232040,
+    "name": "BodyRecords",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefixp2/3232040.zip"
+  },
+  {
+    "appid": 3249560,
+    "name": "Undercover Fools",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3249560.zip"
+  },
+  {
+    "appid": 3263320,
+    "name": "Carry The Glass",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3263320.zip"
+  },
+  {
+    "appid": 3265230,
+    "name": "Cursed Companions",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3265230.zip"
+  },
+  {
+    "appid": 3333740,
+    "name": "Exit Together",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3333740.zip"
+  },
+  {
+    "appid": 3334280,
+    "name": "SpyFall",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3334280.zip"
+  },
+  {
+    "appid": 3338950,
+    "name": "The Scouring",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3338950.zip"
+  },
+  {
+    "appid": 3364070,
+    "name": "The Jackbox Party Pack 11",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3364070.zip"
+  },
+  {
+    "appid": 3407390,
+    "name": "ENDLESS™ Legend 2",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3407390.zip"
+  },
+  {
+    "appid": 3408110,
+    "name": "Cafemart Simulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3408110.zip"
+  },
+  {
+    "appid": 3417410,
+    "name": "Storebound",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3417410.zip"
+  },
+  {
+    "appid": 3419130,
+    "name": "Deadly Quiet",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3419130.zip"
+  },
+  {
+    "appid": 3438990,
+    "name": "Cheaters Cheetah",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3438990.zip"
+  },
+  {
+    "appid": 3441460,
+    "name": "Fuel Harvest Together",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3441460.zip"
+  },
+  {
+    "appid": 3444080,
+    "name": "Bakery Cafe Simulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3444080.zip"
+  },
+  {
+    "appid": 3447690,
+    "name": "iDigging",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3447690.zip"
+  },
+  {
+    "appid": 3448750,
+    "name": "Frog Jump",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3448750.zip"
+  },
+  {
+    "appid": 3450310,
+    "name": "Europa Universalis V",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3450310.zip"
+  },
+  {
+    "appid": 3454980,
+    "name": "Mortal Kombat: Legacy Kollection",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3454980.zip"
+  },
+  {
+    "appid": 3468330,
+    "name": "Fish Hunters: Most Lethal Fishing Simulator 🐟",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3468330.zip"
+  },
+  {
+    "appid": 3477620,
+    "name": "Through The Ages",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3477620.zip"
+  },
+  {
+    "appid": 3484300,
+    "name": "DREADZONE",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3484300.zip"
+  },
+  {
+    "appid": 3486200,
+    "name": "Shift Happens",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3486200.zip"
+  },
+  {
+    "appid": 3501070,
+    "name": "Car Service Together",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3501070.zip"
+  },
+  {
+    "appid": 3527290,
+    "name": "PEAK",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3527290.zip"
+  },
+  {
+    "appid": 3533100,
+    "name": "Wrap House Simulator🌯",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3533100.zip"
+  },
+  {
+    "appid": 3543890,
+    "name": "Boat Together",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3543890.zip"
+  },
+  {
+    "appid": 3552820,
+    "name": "The Horde Wants You Dead",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3552820.zip"
+  },
+  {
+    "appid": 3558400,
+    "name": "Backseat Drivers",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3558400.zip"
+  },
+  {
+    "appid": 3569500,
+    "name": "Card Shop Simulator Multiplayer",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3569500.zip"
+  },
+  {
+    "appid": 3570070,
+    "name": "Paddle Paddle Paddle",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3570070.zip"
+  },
+  {
+    "appid": 3575300,
+    "name": "Climb The Backrooms",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3575300.zip"
+  },
+  {
+    "appid": 3576880,
+    "name": "Dreadline: Net Quota",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3576880.zip"
+  },
+  {
+    "appid": 3585800,
+    "name": "Keep Digging",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3585800.zip"
+  },
+  {
+    "appid": 3588490,
+    "name": "Bogos Binted?",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3588490.zip"
+  },
+  {
+    "appid": 3602720,
+    "name": "CashGrab: Refunded",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3602720.zip"
+  },
+  {
+    "appid": 3621700,
+    "name": "Try To Drive",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3621700.zip"
+  },
+  {
+    "appid": 3626560,
+    "name": "Robbing Time",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3626560.zip"
+  },
+  {
+    "appid": 3645890,
+    "name": "GONE Fishing",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3645890.zip"
+  },
+  {
+    "appid": 3669570,
+    "name": "Alchemy Factory",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3669570.zip"
+  },
+  {
+    "appid": 3669740,
+    "name": "The You Quiz",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3669740.zip"
+  },
+  {
+    "appid": 3674980,
+    "name": "Explosive Odds",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3674980.zip"
+  },
+  {
+    "appid": 3681010,
+    "name": "Nioh 3",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3681010.zip"
+  },
+  {
+    "appid": 3697560,
+    "name": "Pizza Deathlivery",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3697560.zip"
+  },
+  {
+    "appid": 3702930,
+    "name": "Bum: Revenge",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3702930.zip"
+  },
+  {
+    "appid": 3716600,
+    "name": "Mage Arena",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3716600.zip"
+  },
+  {
+    "appid": 3720460,
+    "name": "KEEP GAMBLING",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3720460.zip"
+  },
+  {
+    "appid": 3798350,
+    "name": "InOut",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3798350.zip"
+  },
+  {
+    "appid": 3799100,
+    "name": "SIDE EFFECTS",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3799100.zip"
+  },
+  {
+    "appid": 3805420,
+    "name": "A Few Quick Matches",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3805420.zip"
+  },
+  {
+    "appid": 3815750,
+    "name": "SEVERANCE",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3815750.zip"
+  },
+  {
+    "appid": 3834090,
+    "name": "YAPYAP",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3834090.zip"
+  },
+  {
+    "appid": 3873970,
+    "name": "NASCAR 25",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3873970.zip"
+  },
+  {
+    "appid": 3874690,
+    "name": "EscapeSimulator",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3874690.zip"
+  },
+  {
+    "appid": 3949040,
+    "name": "RV There Yet?",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3949040.zip"
+  },
+  {
+    "appid": 3963880,
+    "name": "SURROUNDED",
+    "link": "https://github.com/HasibulHasan098/ONLINE-FIX-GAMEDB/releases/download/onlinefix/3963880.zip"
+  }
+]
